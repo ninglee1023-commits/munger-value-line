@@ -11,9 +11,9 @@
 
 ## GitHub Pages
 
-網站輸出在 `dist/`，可直接把此 repo 的 `main` 分支、`/ (root)` 設為 GitHub Pages 的來源。網站不依賴 Node、後端或外部 CDN。
+網站入口檔案放在 repo 根目錄，GitHub Pages 使用 `main` 分支的 `/ (root)` 作為發布來源。網站不依賴 Node、後端或外部 CDN。
 
-日後每天新增研究時，主要更新 `dist/app.js` 的 `STUDIES` 陣列，為新公司加入文章欄位、圖表數列和來源鏈接即可。
+日後每天新增研究時，主要更新根目錄 `app.js` 的 `STUDIES` 陣列，為新公司加入文章欄位、圖表數列和來源鏈接即可；`dist/` 保留作本地預覽副本。
 
 ## 研究口徑
 
