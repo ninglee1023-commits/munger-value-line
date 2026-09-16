@@ -158,7 +158,7 @@ const CATALOG = [
       ["貴州茅台財務報告","https://www.moutai.com.cn/mtgf/tzzgx/cwbg/index.html"],
       ["貴州茅台投資者關係","https://www.moutai.com.cn/mtgf/tzzgx/index.html"]
     ]
-  }
+  },
   {
     id: "sto", file: "sto.json", name: "申通快递", ticker: "002468.SZ",
     date: "2026-09-17", sector: "快递与物流", verdict: "高弹性但需验证", valuation: "约11.4× TTM PE（资料商口径）",
