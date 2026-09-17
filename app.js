@@ -176,6 +176,187 @@ const CATALOG = [
       ["国家邮政局2026年1—7月行业数据","https://www.spb.gov.cn/gjyzj/c100015/c100016/202608/b38ba608fef440bb89db1e7c3a9fddbf.shtml"]
     ]
   },
+  {
+    "id": "pdd",
+    "file": "pdd.json",
+    "name": "拼多多",
+    "ticker": "NASDAQ: PDD",
+    "date": "2026-09-18",
+    "sector": "电商与平台",
+    "verdict": "高质量但需等待盈利再投资透明化",
+    "valuation": "约 8.6× TTM PE；不为 Temu 远期利润提前付费",
+    "conclusion": "国内广告+交易服务是已证实的利润引擎；Temu提供期权价值，但目前仍是再投资和透明度风险。",
+    "lead": "2026 H1收入2,185.9亿元、归母净利397.3亿元、经营现金流421.2亿元；交易服务收入已占50.8%，但利润同比下降12.7%。",
+    "metrics": [
+      [
+        "2026 H1收入",
+        "2,185.9亿"
+      ],
+      [
+        "2026 H1归母净利",
+        "397.3亿"
+      ],
+      [
+        "经营现金流",
+        "421.2亿"
+      ],
+      [
+        "交易服务占比",
+        "50.8%"
+      ]
+    ],
+    "visuals": [
+      {
+        "kind": "line",
+        "title": "收入扩张与盈利拐点",
+        "note": "人民币亿元；2026 H1为半年口径，不能与全年直接比较。",
+        "labels": [
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "series": [
+          {
+            "name": "营业收入",
+            "values": [
+              17.44,
+              131.2,
+              301.42,
+              594.92,
+              939.5,
+              1305.58,
+              2476.39,
+              3938.36,
+              4318.46
+            ]
+          },
+          {
+            "name": "归母净利润",
+            "values": [
+              -5.25,
+              -102.17,
+              -69.68,
+              -71.8,
+              77.69,
+              315.38,
+              600.27,
+              1124.35,
+              978.43
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "line",
+        "title": "收入结构从广告走向交易服务",
+        "note": "百分比；仅列已核对的年度／半年口径。",
+        "suffix": "%",
+        "labels": [
+          "2023",
+          "2024",
+          "2025",
+          "2026 H1"
+        ],
+        "series": [
+          {
+            "name": "在线营销",
+            "values": [
+              62,
+              50.3,
+              50.4,
+              49.2
+            ]
+          },
+          {
+            "name": "交易服务",
+            "values": [
+              38,
+              49.7,
+              49.6,
+              50.8
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "bar",
+        "title": "2026 H1增长质量",
+        "note": "同比百分比；GAAP归母净利下降。",
+        "suffix": "%",
+        "labels": [
+          "收入",
+          "毛利",
+          "营业利润",
+          "归母净利",
+          "经营现金流"
+        ],
+        "values": [
+          9.5,
+          9.6,
+          13,
+          -12.7,
+          13.3
+        ]
+      },
+      {
+        "kind": "hbar",
+        "title": "现金与平台结算结构",
+        "note": "人民币亿元；现金+短投不等于可分配自由现金。",
+        "labels": [
+          "现金+短期投资",
+          "受限现金",
+          "应付商家",
+          "H1经营现金流"
+        ],
+        "values": [
+          4564.1,
+          772.7,
+          1099.2,
+          421.2
+        ]
+      }
+    ],
+    "sources": [
+      [
+        "PDD Holdings 2026年第二季度及上半年未经审计业绩（2026-08-24）",
+        "https://pinduoduo.gcs-web.com/news-releases/news-release-details/pdd-holdings-announces-second-quarter-2026-unaudited-financial"
+      ],
+      [
+        "PDD Holdings 2025 Form 20-F（SEC，2026-04-29）",
+        "https://www.sec.gov/Archives/edgar/data/1737806/000110465926050727/pdd-20251231x20f.htm"
+      ],
+      [
+        "PDD Holdings 2019 Form 20-F（SEC，覆盖2017–2019历史）",
+        "https://www.sec.gov/Archives/edgar/data/1737806/000110465920051022/pdd-20191231x20f.htm"
+      ],
+      [
+        "国家统计局：2026年上半年社会消费品零售总额增长1.3%（2026-07-15）",
+        "https://www.stats.gov.cn/sj/zxfb/202607/t20260715_1964127.html"
+      ],
+      [
+        "市场监管总局／中央网信办：网络平台规则治理相关文件（2026-01-07）",
+        "https://www.cac.gov.cn/2026-01/07/c_1769515215345420.htm"
+      ],
+      [
+        "Alibaba Group 2026年6月季度业绩（2026-08-20）",
+        "https://home.alibabagroup.com/en-US/document-2026456290057781248"
+      ],
+      [
+        "JD.com 2026年第二季度及上半年业绩（公司投资者关系）",
+        "https://ir.jd.com/news-releases/news-release-details/jdcom-announces-second-quarter-and-interim-2026-results"
+      ],
+      [
+        "Meituan 2026年季度及中期业绩入口（公司投资者关系）",
+        "https://www.meituan.com/en-US/investor/results"
+      ]
+    ]
+  }
 ];
 
 const $ = function(sel, root) { return (root || document).querySelector(sel); };
