@@ -1,0 +1,167 @@
+{
+  "updated": "2026-09-18",
+  "note": "本次为已有13公司批量重整，不当作新增日更选题；以后30天内去重仍据日更研究记录。",
+  "revisions": [
+    {
+      "id": "tencent",
+      "company": "腾讯控股",
+      "peers": [
+        "网易",
+        "Meta",
+        "阿里巴巴"
+      ],
+      "originalResearchDate": "2026-09-07",
+      "date": "2026-09-18",
+      "revision": "munger-value-line-20260918-v2",
+      "chapters": 17
+    },
+    {
+      "id": "hworld",
+      "company": "华住集团",
+      "peers": [
+        "亚朵",
+        "希尔顿",
+        "雅高"
+      ],
+      "originalResearchDate": "2026-09-07",
+      "date": "2026-09-18",
+      "revision": "munger-value-line-20260918-v2",
+      "chapters": 17
+    },
+    {
+      "id": "cmb",
+      "company": "招商银行",
+      "peers": [
+        "兴业银行",
+        "宁波银行"
+      ],
+      "originalResearchDate": "2026-09-07",
+      "date": "2026-09-18",
+      "revision": "munger-value-line-20260918-v2",
+      "chapters": 17
+    },
+    {
+      "id": "trip",
+      "company": "携程集团",
+      "peers": [
+        "Booking Holdings",
+        "Airbnb"
+      ],
+      "originalResearchDate": "2026-09-07",
+      "date": "2026-09-18",
+      "revision": "munger-value-line-20260918-v2",
+      "chapters": 17
+    },
+    {
+      "id": "tsmc",
+      "company": "台积电",
+      "peers": [
+        "联电",
+        "GlobalFoundries"
+      ],
+      "originalResearchDate": "2026-09-07",
+      "date": "2026-09-18",
+      "revision": "munger-value-line-20260918-v2",
+      "chapters": 17
+    },
+    {
+      "id": "midea",
+      "company": "美的集团",
+      "peers": [
+        "格力电器",
+        "海尔智家"
+      ],
+      "originalResearchDate": "2026-09-07",
+      "date": "2026-09-18",
+      "revision": "munger-value-line-20260918-v2",
+      "chapters": 17
+    },
+    {
+      "id": "jd",
+      "company": "京东集团",
+      "peers": [
+        "阿里巴巴",
+        "拼多多"
+      ],
+      "originalResearchDate": "2026-09-08",
+      "date": "2026-09-18",
+      "revision": "munger-value-line-20260918-v2",
+      "chapters": 17
+    },
+    {
+      "id": "sf",
+      "company": "顺丰控股",
+      "peers": [
+        "京东物流",
+        "圆通速递"
+      ],
+      "originalResearchDate": "2026-09-09",
+      "date": "2026-09-18",
+      "revision": "munger-value-line-20260918-v2",
+      "chapters": 17
+    },
+    {
+      "id": "yumc",
+      "company": "百胜中国",
+      "peers": [
+        "瑞幸咖啡",
+        "麦当劳"
+      ],
+      "originalResearchDate": "2026-09-10",
+      "date": "2026-09-18",
+      "revision": "munger-value-line-20260918-v2",
+      "chapters": 17
+    },
+    {
+      "id": "cki",
+      "company": "长江基建",
+      "peers": [
+        "电能实业",
+        "中电控股",
+        "港灯电力投资"
+      ],
+      "originalResearchDate": "2026-09-14",
+      "date": "2026-09-18",
+      "revision": "munger-value-line-20260918-v2",
+      "chapters": 17
+    },
+    {
+      "id": "moutai",
+      "company": "贵州茅台",
+      "peers": [
+        "五粮液",
+        "泸州老窖",
+        "山西汾酒"
+      ],
+      "originalResearchDate": "2026-08-14",
+      "date": "2026-09-18",
+      "revision": "munger-value-line-20260918-v2",
+      "chapters": 17
+    },
+    {
+      "id": "sto",
+      "company": "申通快递",
+      "peers": [
+        "中通快递",
+        "圆通速递",
+        "顺丰控股"
+      ],
+      "originalResearchDate": "2026-09-17",
+      "date": "2026-09-18",
+      "revision": "munger-value-line-20260918-v2",
+      "chapters": 17
+    },
+    {
+      "id": "pdd",
+      "company": "拼多多控股",
+      "peers": [
+        "阿里巴巴",
+        "京东集团"
+      ],
+      "originalResearchDate": "2026-09-18",
+      "date": "2026-09-18",
+      "revision": "munger-value-line-20260918-v2",
+      "chapters": 17
+    }
+  ]
+}
