@@ -437,38 +437,43 @@ const CATALOG = [
   {
     "id": "trip",
     "file": "trip.json",
-    "name": "携程集团",
-    "ticker": "9961.HK / NASDAQ: TCOM",
-    "date": "2026-09-18",
-    "sector": "旅游平台",
-    "verdict": "经营与价格分开判断",
-    "valuation": "情景估值｜价格基准见正文",
-    "conclusion": "有形资本轻、交易服务有规模优势，但监管已直接损伤当期利润；2025高净利不能当常态。",
-    "lead": "2015—2025收入从108.98亿元到624.09亿元，中间2020—2022遭遇旅行需求冲击。2025归母332.94亿元远高于当年简单FCF135.82亿元，投资项目使利润看起来比旅行经营更强。疫情后的低基数反弹和投资收益都不能作为未来CAGR。[S1][S7][S8]",
+    "sourceSynced": true,
+    "name": "攜程集團",
+    "ticker": "NASDAQ: TCOM · HKEX: 9961",
+    "date": "2026-09-19",
+    "sector": "旅遊平台",
+    "verdict": "價格合理偏吸引；正常化盈利為主尺",
+    "valuation": "正常化 P/E 約10–14倍｜US$40.68（9/18）",
+    "conclusion": "這是一門資產較輕、自由現金流轉化強、正在把中國 OTA 優勢向全球輸出的好生意；但「7 倍 P/E」是被 2025 年投資收益嚴重美化的表面數字。用正常化盈利看，估值更接近約 10-14 倍，仍有吸引力，但需要把監管後的酒店經濟學與海外獲客成本列為首要驗證項。",
+    "lead": "原 PDF 全文轉錄｜十五年 Value Line、商業模式、護城河、盈利品質與正常化估值",
     "metrics": [
       [
-        "研究框架",
-        "长期事实＋资本回报"
+        "2025 營收",
+        "RMB 624 億"
       ],
       [
-        "可比同行",
-        "2家"
+        "2025 營業利潤率",
+        "約25.3%"
       ],
       [
-        "正文结构",
-        "17章＋来源账本"
+        "2025 FCF",
+        "RMB 135.8 億"
       ],
       [
-        "版本",
-        "2026-09-18 重整"
+        "美股收市價",
+        "US$40.68（9/18）"
       ]
     ],
     "visuals": [
       {
         "kind": "line",
-        "title": "十一年收入轨迹",
-        "note": "人民币百万元；疫情周期清晰可见。",
+        "title": "圖 1｜2011–2025 營收",
+        "note": "原報告十五年表；美元十億元。疫情造成結構性斷層，不能以2022谷底作正常CAGR起點。",
         "labels": [
+          "2011",
+          "2012",
+          "2013",
+          "2014",
           "2015",
           "2016",
           "2017",
@@ -483,30 +488,41 @@ const CATALOG = [
         ],
         "series": [
           {
-            "name": "净收入",
+            "name": "營收 US$bn",
             "values": [
-              10898,
-              19200,
-              26796,
-              30965,
-              35666,
-              18316,
-              20023,
-              20039,
-              44510,
-              53294,
-              62409
+              0.592,
+              0.668,
+              0.89,
+              1.184,
+              1.682,
+              2.769,
+              4.116,
+              4.504,
+              5.122,
+              2.807,
+              3.142,
+              2.907,
+              6.269,
+              7.302,
+              8.925
             ]
           }
         ]
       },
       {
-        "kind": "bar",
-        "title": "归母盈利波动",
-        "note": "人民币百万元；2025 含较大投资收益。",
+        "kind": "line",
+        "title": "圖 2｜毛利率與營業利潤率",
+        "note": "原報告十五年表；百分比。2014–2018整合／投入期與2020–2022疫情期完整保留。",
+        "suffix": "%",
         "labels": [
+          "2011",
+          "2012",
+          "2013",
+          "2014",
           "2015",
           "2016",
+          "2017",
+          "2018",
           "2019",
           "2020",
           "2021",
@@ -515,45 +531,62 @@ const CATALOG = [
           "2024",
           "2025"
         ],
-        "values": [
-          2508,
-          -1400,
-          7011,
-          -3247,
-          -550,
-          1403,
-          9918,
-          17067,
-          33294
+        "series": [
+          {
+            "name": "毛利率",
+            "values": [
+              77.7,
+              75,
+              74.3,
+              71.5,
+              72.1,
+              75.4,
+              82.5,
+              79.6,
+              79.3,
+              78,
+              77.1,
+              77.5,
+              81.8,
+              81.3,
+              80.6
+            ]
+          },
+          {
+            "name": "營業利潤率",
+            "values": [
+              32.6,
+              15.7,
+              15.6,
+              -2,
+              3.5,
+              -8.2,
+              10.9,
+              8.4,
+              14.1,
+              -7.8,
+              -7,
+              0.5,
+              25.4,
+              26.6,
+              25.3
+            ]
+          }
         ]
       },
       {
         "kind": "bar",
-        "title": "2026 Q1 增长动能",
-        "note": "同比百分比；国际预订增速显着更快。",
-        "suffix": "%",
+        "title": "圖 3｜2025 報表淨利、正常化盈利與FCF",
+        "note": "人民幣億元；正常化為公司披露的剔除投資收益後歸母淨利。三項沿用原稿，不是新增盈利預測。",
         "labels": [
-          "收入",
-          "国际总预订"
+          "GAAP 淨利",
+          "剔除投資收益後",
+          "自由現金流"
         ],
         "values": [
-          17,
-          65
-        ]
-      },
-      {
-        "kind": "bar",
-        "title": "2026 Q2：罚没与正常化",
-        "note": "人民币亿元；披露圆整值。剔罚没不等于所有调整完成。[R1]",
-        "labels": [
-          "报告归母",
-          "剔罚没归母",
-          "公司nonGAAP"
-        ],
-        "values": [
-          -25,
-          27,
-          48
+          334,
+          134,
+          135.8
         ]
       }
     ]
@@ -1686,6 +1719,33 @@ const esc = function(value) {
 };
 const safeUrl = function(url) { return /^https?:\/\//i.test(String(url || "")) ? String(url) : "#"; };
 const fmtDate = function(value) { return String(value || "").replaceAll("-", "."); };
+const safePdfUrl = function(value) {
+  const url = String(value || "");
+  if (/^https:\/\//i.test(url)) return url;
+  if (/^(?:[a-zA-Z0-9_-]+\/)*[a-zA-Z0-9_.-]+\.pdf$/i.test(url) && !url.split("/").includes("..")) return url;
+  return "";
+};
+function reportMetadata(report, study) {
+  const source = report.source || {};
+  const date = source.researchDate || report.asof || study.date;
+  let html = '<div class="article-meta">' + esc(study.ticker) + (source.researchDate ? " · 原研究日期：" : " · 研究修订：") + esc(fmtDate(date)) + "</div>";
+  if (source.title) html += '<div class="article-meta report-source">报告来源：' + esc(source.title) + "</div>";
+  if (source.syncedAt) html += '<div class="article-meta report-sync">网页同步：' + esc(String(source.syncedAt).replace("T", " ").replace(/Z$/, " UTC")) + "</div>";
+  return html;
+}
+function reportPdf(report) {
+  const pdf = report.pdf || {};
+  const url = safePdfUrl(pdf.url);
+  return url ? '<p class="basis"><a class="report-pdf" href="' + esc(url) + '" target="_blank" rel="noopener">' + esc(pdf.label || "下载同版 PDF") + " ↗</a></p>" : "";
+}
+function safeImageUrl(value, assetBase) {
+  const url = String(value || "");
+  if (/^https:\/\//i.test(url)) return url;
+  const base = String(assetBase || "");
+  if (!/^(?:[a-zA-Z0-9_-]+\/)*$/.test(base)) return "";
+  if (!/^(?:[a-zA-Z0-9_-]+\/)*[a-zA-Z0-9_.-]+\.(?:png|jpe?g|webp|gif|svg)$/i.test(url) || url.split("/").includes("..")) return "";
+  return base + url;
+}
 const findStudy = function(id) { return CATALOG.find(function(item) { return item.id === id; }); };
 const chartColors = ["#2f6f89","#c28b32","#7c927f","#9c5d52"];
 
@@ -1707,7 +1767,11 @@ function sourceMap(report, study) {
 }
 
 function inlineRich(value, sources) {
-  let out = esc(value);
+  const escaped = [];
+  const protectedText = String(value == null ? "" : value).replace(/\\([\\`*_{}\[\]()#+\-.!|>])/g, function(_,symbol) {
+    escaped.push(symbol); return "\uE000" + (escaped.length - 1) + "\uE001";
+  });
+  let out = esc(protectedText);
   out = out.replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>");
   out = out.replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g, function(_, label, url) {
     return '<a href="' + esc(safeUrl(url)) + '" target="_blank" rel="noopener">' + label + "</a>";
@@ -1717,7 +1781,7 @@ function inlineRich(value, sources) {
     if (!source) return token;
     return '<a class="cite" href="' + esc(safeUrl(source.url)) + '" target="_blank" rel="noopener" aria-label="来源 ' + esc(id) + '">' + esc(id) + "</a>";
   });
-  return out;
+  return out.replace(/\uE000(\d+)\uE001/g, function(_,index) { return esc(escaped[Number(index)]); });
 }
 
 function renderTable(table, sources) {
@@ -1841,16 +1905,16 @@ function markdownHeadings(markdown) {
   const result = [];
   let index = 0;
   String(markdown || "").split(/\r?\n/).forEach(function(line) {
-    const match = line.match(/^(#{1,2})\s+(.+)$/);
+    const match = line.trim().match(/^(#{1,2})\s+(.+)$/);
     if (!match) return;
     const title = match[2].replace(/\*\*/g,"").trim();
-    if (title && result.length < 18) result.push({id:"md-" + index,title:title});
+    if (title) result.push({id:"md-" + index,title:title});
     index += 1;
   });
   return result;
 }
 
-function renderMarkdown(markdown, sources) {
+function renderMarkdown(markdown, sources, assetBase) {
   const lines = String(markdown || "").split(/\r?\n/);
   let html = "";
   let i = 0;
@@ -1858,10 +1922,17 @@ function renderMarkdown(markdown, sources) {
   while (i < lines.length) {
     const line = lines[i].trim();
     if (!line) { i += 1; continue; }
+    const picture = line.match(/^!\[([^\]]*)\]\(([^\s)]+)\)$/);
+    if (picture) {
+      const src = safeImageUrl(picture[2],assetBase);
+      if (src) html += '<div class="report-image"><img src="' + esc(src) + '" alt="' + esc(picture[1]) + '" style="display:block;max-width:100%;height:auto" /></div>';
+      else html += '<p>' + esc(line) + '</p>';
+      i += 1; continue;
+    }
     const heading = line.match(/^(#{1,3})\s+(.+)$/);
     if (heading) {
       if (heading[1].length === 3) {
-        html += '<p class="emphasis-line">' + inlineRich(heading[2], sources) + "</p>";
+        html += '<h3 class="emphasis-line">' + inlineRich(heading[2], sources) + "</h3>";
       } else {
         html += '<h2 id="md-' + headingIndex + '">' + inlineRich(heading[2], sources) + "</h2>";
         headingIndex += 1;
@@ -1897,16 +1968,17 @@ function renderMarkdown(markdown, sources) {
       continue;
     }
     if (/^\d+[.)]\s+/.test(line)) {
+      const start = Number(line.match(/^(\d+)/)[1]);
       const items = [];
       while (i < lines.length && /^\d+[.)]\s+/.test(lines[i].trim())) {
         items.push(lines[i].trim().replace(/^\d+[.)]\s+/,"")); i += 1;
       }
-      html += "<ol>" + items.map(function(x){ return "<li>" + inlineRich(x,sources) + "</li>"; }).join("") + "</ol>";
+      html += '<ol start="' + start + '">' + items.map(function(x){ return "<li>" + inlineRich(x,sources) + "</li>"; }).join("") + "</ol>";
       continue;
     }
     const paragraph = [line];
     i += 1;
-    while (i < lines.length && lines[i].trim() && !/^(#{1,3})\s+/.test(lines[i].trim()) && !lines[i].trim().startsWith("|") && !lines[i].trim().startsWith(">") && !/^[-*]\s+/.test(lines[i].trim()) && !/^\d+[.)]\s+/.test(lines[i].trim()) && !/^---+$/.test(lines[i].trim())) {
+    while (i < lines.length && lines[i].trim() && !/^(#{1,3})\s+/.test(lines[i].trim()) && !lines[i].trim().startsWith("![") && !lines[i].trim().startsWith("|") && !lines[i].trim().startsWith(">") && !/^[-*]\s+/.test(lines[i].trim()) && !/^\d+[.)]\s+/.test(lines[i].trim()) && !/^---+$/.test(lines[i].trim())) {
       paragraph.push(lines[i].trim()); i += 1;
     }
     html += "<p>" + paragraph.map(function(x){ return inlineRich(x,sources); }).join("<br>") + "</p>";
@@ -1949,12 +2021,12 @@ function sourceLedger(sourceData) {
 }
 
 function cardHTML(study) {
-  return '<article class="company-card"><div class="card-top"><div><h2>' + esc(study.name) + '</h2><div class="ticker">' + esc(study.ticker) + '</div></div><span class="tag">' + esc(study.sector) + '</span></div><p class="card-conclusion">' + esc(study.conclusion) + '</p><div class="depth-row"><span>完整研究</span><b>长期表＋4图＋17章</b></div><div class="card-meta"><span>' + fmtDate(study.date) + " · " + esc(study.valuation) + '</span><a class="card-link" href="#/article/' + esc(study.id) + '">阅读完整版 →</a></div></article>';
+  return '<article class="company-card"><div class="card-top"><div><h2>' + esc(study.name) + '</h2><div class="ticker">' + esc(study.ticker) + '</div></div><span class="tag">' + esc(study.sector) + '</span></div><p class="card-conclusion">' + esc(study.conclusion) + '</p><div class="depth-row"><span>完整研究</span><b>' + ((study.visuals || []).length ? (study.visuals.length + '图＋') : '') + (study.sourceSynced ? '芒格原稿' : '完整研究') + '</b></div><div class="card-meta"><span>' + fmtDate(study.date) + " · " + esc(study.valuation) + '</span><a class="card-link" href="#/article/' + esc(study.id) + '">阅读完整版 →</a></div></article>';
 }
 
 function renderHome() {
   const industries = Array.from(new Set(CATALOG.map(function(x){ return x.sector; })));
-  $("#app").innerHTML = '<div class="shell"><section class="hero"><div><div class="eyebrow">Daily Munger Value Line</div><h1>把好公司，放回长期数字里看。</h1><p>每篇均为完整网页研究：长期财务、护城河、单位经济、利润拆解、资本配置、同行、估值、反证、追踪指标与来源。</p><div class="hero-stats"><span><b>' + CATALOG.length + '</b>家公司</span><span><b>' + (CATALOG.length*4) + '</b>张研究图</span><span><b>17</b>个正文模组</span></div></div><aside class="hero-note"><strong>阅读原则</strong><p>先看生意，再看价格；把已实现的利润与尚待验证的故事分开。市场价格仅代表正文注明的快照日期，使用前请回到原始披露。</p></aside></section><section class="toolbar" aria-label="研究筛选"><input id="search" class="input" type="search" placeholder="搜寻公司、代码、行业或结论…" /><select id="sector"><option value="">全部行业</option>' + industries.map(function(x){ return "<option>" + esc(x) + "</option>"; }).join("") + '</select></section><div class="result-line"><span id="result-count">' + CATALOG.length + ' 篇完整研究</span><span>最近整理：' + fmtDate(CATALOG.map(x=>x.date).sort().at(-1)) + '</span></div><section id="cards" class="cards">' + CATALOG.map(cardHTML).join("") + "</section></div>";
+  $("#app").innerHTML = '<div class="shell"><section class="hero"><div><div class="eyebrow">Daily Munger Value Line</div><h1>把好公司，放回长期数字里看。</h1><p>每篇均为完整网页研究：长期财务、护城河、单位经济、利润拆解、资本配置、同行、估值、反证、追踪指标与来源。</p><div class="hero-stats"><span><b>' + CATALOG.length + '</b>家公司</span><span><b>' + CATALOG.reduce(function(total,study){return total+(study.visuals || []).length;},0) + '</b>张研究图</span><span><b>全文</b>按原报告结构</span></div></div><aside class="hero-note"><strong>阅读原则</strong><p>先看生意，再看价格；把已实现的利润与尚待验证的故事分开。市场价格仅代表正文注明的快照日期，使用前请回到原始披露。</p></aside></section><section class="toolbar" aria-label="研究筛选"><input id="search" class="input" type="search" placeholder="搜寻公司、代码、行业或结论…" /><select id="sector"><option value="">全部行业</option>' + industries.map(function(x){ return "<option>" + esc(x) + "</option>"; }).join("") + '</select></section><div class="result-line"><span id="result-count">' + CATALOG.length + ' 篇完整研究</span><span>最近整理：' + fmtDate(CATALOG.map(x=>x.date).sort().at(-1)) + '</span></div><section id="cards" class="cards">' + CATALOG.map(cardHTML).join("") + "</section></div>";
   const update = function() {
     const q = $("#search").value.trim().toLowerCase();
     const sector = $("#sector").value;
@@ -1977,14 +2049,16 @@ async function renderArticle(study) {
     const sourceData = sourceMap(report,study);
     const summary = (report.summary && report.summary.length) ? report.summary : [study.lead,study.conclusion];
     const body = report.format === "markdown"
-      ? {items:markdownHeadings(report.markdown),html:'<section class="report-section prose" id="full-report"><div class="section-kicker">完整原研究</div>' + renderMarkdown(report.markdown,sourceData.map) + "</section>"}
+      ? {items:markdownHeadings(report.markdown),html:'<section class="report-section prose" id="full-report"><div class="section-kicker">完整原研究</div>' + renderMarkdown(report.markdown,sourceData.map,(report.source || {}).assetBase) + "</section>"}
       : structuredBody(report,sourceData.map);
-    const tocItems = [{id:"evidence",title:"关键数据与图表"}].concat(body.items).concat([{id:"sources",title:"来源链接"}]);
-    const metrics = study.metrics.map(function(metric) {
+    const visuals = study.visuals || [];
+    const tocItems = (visuals.length ? [{id:"evidence",title:"关键数据与图表"}] : []).concat(body.items).concat(sourceData.list.length ? [{id:"sources",title:"来源链接"}] : []);
+    const metrics = (study.metrics || []).map(function(metric) {
       return '<div class="metric"><span>' + esc(metric[0]) + "</span><strong>" + esc(metric[1]) + "</strong></div>";
     }).join("");
     const summaryHTML = summary.map(function(p) { return "<p>" + inlineRich(p,sourceData.map) + "</p>"; }).join("");
-    $("#app").innerHTML = '<div class="reading-progress" id="reading-progress"></div><div class="shell article-shell"><a class="back" href="#/">← 返回研究索引</a><header class="article-header"><div class="article-title"><div class="article-badge">' + esc(study.sector) + " · " + fmtDate(study.date) + '</div><h1>' + esc(study.name) + '</h1><p>' + esc(report.subtitle || study.lead) + '</p><div class="article-meta">' + esc(study.ticker) + " · 研究修订：" + fmtDate(report.asof || study.date) + '</div></div><aside class="decision"><span>芒格式结论</span><strong>' + esc(study.verdict) + '</strong><p>' + esc(study.conclusion) + '</p><div class="valuation-chip">' + esc(study.valuation) + '</div></aside></header><section class="metrics">' + metrics + '</section><section class="summary-panel"><div class="section-kicker">Executive read</div><h2>先给结论</h2>' + summaryHTML + '<p class="basis">' + esc(report.basis || "") + '</p></section><div class="article-grid">' + tocHTML(tocItems) + '<article class="article-content"><section class="report-section evidence" id="evidence"><div class="section-kicker">Evidence first</div><h2>关键数据与图表</h2><div class="chart-grid">' + study.visuals.map(renderVisual).join("") + '</div><p class="chart-disclaimer">图表显示已注明来源的财务数据或明确标注的作者情景；历史锚点不冒充完整逐年数据。游标停在数据点可查看精确值。</p></section>' + body.html + sourceLedger(sourceData) + "</article></div></div>";
+    const evidenceHTML = visuals.length ? '<section class="report-section evidence" id="evidence"><div class="section-kicker">Evidence first</div><h2>关键数据与图表</h2><div class="chart-grid">' + visuals.map(renderVisual).join("") + '</div><p class="chart-disclaimer">图表显示已注明来源的财务数据或明确标注的作者情景；历史锚点不冒充完整逐年数据。游标停在数据点可查看精确值。</p></section>' : "";
+    $("#app").innerHTML = '<div class="reading-progress" id="reading-progress"></div><div class="shell article-shell"><a class="back" href="#/">← 返回研究索引</a><header class="article-header"><div class="article-title"><div class="article-badge">' + esc(study.sector) + " · " + fmtDate(study.date) + '</div><h1>' + esc(study.name) + '</h1><p>' + esc(report.subtitle || study.lead) + '</p>' + reportMetadata(report,study) + '</div><aside class="decision"><span>芒格式结论</span><strong>' + esc(study.verdict) + '</strong><p>' + esc(study.conclusion) + '</p><div class="valuation-chip">' + esc(study.valuation) + '</div></aside></header><section class="metrics">' + metrics + '</section><section class="summary-panel"><div class="section-kicker">Executive read</div><h2>先给结论</h2>' + summaryHTML + (report.basis ? '<p class="basis">' + esc(report.basis) + '</p>' : "") + reportPdf(report) + '</section><div class="article-grid">' + tocHTML(tocItems) + '<article class="article-content">' + evidenceHTML + body.html + sourceLedger(sourceData) + "</article></div></div>";
     bindProgress();
   } catch (error) {
     $("#app").innerHTML = '<div class="shell"><a class="back" href="#/">← 返回研究索引</a><div class="empty"><strong>完整研究暂时载入失败。</strong><br>请重新整理页面；若仍失败，可先返回研究索引。</div></div>';
@@ -2004,7 +2078,7 @@ function bindProgress() {
 }
 
 function renderAbout() {
-  $("#app").innerHTML = '<div class="shell"><a class="back" href="#/">← 返回研究索引</a><section class="hero"><div><div class="eyebrow">方法与更新</div><h1>每天加一篇，直接成为完整网页。</h1><p>网站已改为「一家公司一份资料档＋自动生成文章页」。新增研究不再制作 PDF，也不需要改动整个首页。</p></div><aside class="hero-note"><strong>每日流程</strong><p>选公司 → 查公司与监管原始资料 → 完成完整研究 → 新增 公司代号.json → 在索引登记摘要与图表 → 推送 GitHub Pages。</p></aside></section><div class="about-grid"><section class="report-section"><h2>完整研究固定包含</h2><div class="step"><strong>1｜长期财务脚印</strong><span>收入、盈利、利润率、ROE／ROIC、现金流与每股数据。</span></div><div class="step"><strong>2｜商业模式与单位经济</strong><span>把规模、价格、成本、周转与资本需求拆开。</span></div><div class="step"><strong>3｜投资判断</strong><span>同行、估值、反证、风险、追踪指标与重新评估条件。</span></div><div class="step"><strong>4｜来源可追溯</strong><span>材料数字回到公司、交易所或监管原始披露。</span></div></section><section class="report-section"><h2>更新与发布边界</h2><p>文章日期表示研究时点，不代表今日报价；市场数据与估值每次新增或更新时必须重核。</p><p>网站是纯静态 GitHub Pages，没有後端与密码。用户已要求每次提交：每次完成研究须提交并发布，再核验正文链接；遇到权限或部署失败须明确报告，不以本地文件冒充上线。</p><p>原始披露本身可能是 PDF，但只是来源查核链接；网站正文永远是主要阅读入口。</p></section></div></div>';
+  $("#app").innerHTML = '<div class="shell"><a class="back" href="#/">← 返回研究索引</a><section class="hero"><div><div class="eyebrow">方法与更新</div><h1>完整研究，保留来源与研究日期。</h1><p>自2026-09-19起，新增报告由「每日芒格式公司研究」同步；既有报告取得对应原稿后再逐篇更新，来源见各篇。</p></div><aside class="hero-note"><strong>阅读方式</strong><p>先看生意与长期财务，再看价格、假设和反证。新增同步文章保留原报告全文，同时提供经检查的同版中文 PDF。</p></aside></section><div class="about-grid"><section class="report-section"><h2>完整研究的主要内容</h2><div class="step"><strong>长期财务与现金流</strong><span>收入、盈利、利润率、资本回报和每股数据。</span></div><div class="step"><strong>商业模式与竞争优势</strong><span>收入来源、单位经济、护城河及可推翻条件。</span></div><div class="step"><strong>投资判断与追踪</strong><span>同行、估值、风险与后续需要验证的指标。</span></div></section><section class="report-section"><h2>来源与版本日期</h2><p>原研究日期表示报告的分析时点；网页同步时间只表示该版本何时加入网站。市场价格及估值均以原文注明的日期为准。</p><p>原稿同步和 PDF 格式修复不会改写研究结论、刷新价格或补造数据。若原稿本身修订，会作为新的版本列明；旧判断不冒充当前判断。</p><p>每篇保留公开来源链接。原 PDF 转录会标明转录性质；中文字体和排版修复不等于重新研究。</p></section></div></div>';
 }
 
 async function route() {

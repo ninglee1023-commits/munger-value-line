@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-18",
-  "note": "本次为已有13公司批量重整，不当作新增日更选题；以后30天内去重仍据日更研究记录。",
+  "updated": "2026-09-19",
+  "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
       "id": "tencent",
@@ -162,6 +162,21 @@
       "date": "2026-09-18",
       "revision": "munger-value-line-20260918-v2",
       "chapters": 17
+    },
+    {
+      "id": "trip",
+      "company": "攜程集團",
+      "peers": [
+        "Booking Holdings",
+        "Expedia",
+        "同程旅行"
+      ],
+      "originalResearchDate": "2026-09-19",
+      "date": "2026-09-19",
+      "revision": "munger-original-20260919-07c221244b08",
+      "chapters": 11,
+      "sourceTitle": "每日芒格式公司研究（原 PDF 全文轉錄）",
+      "contentSha256": "07c221244b08522b241110181c6858356d669e539d3d15192b6ca5f1bc923195"
     }
   ]
 }
