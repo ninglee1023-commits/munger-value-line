@@ -9,7 +9,6 @@ const sha256=text=>crypto.createHash('sha256').update(text,'utf8').digest('hex')
 function tables(report){return (report.history?[report.history]:[]).concat((report.sections||[]).flatMap(s=>(s.table?[s.table]:[]).concat(s.tables||[])));}
 function checkReport(c,r){
  assert.equal(r.slug,c.id,c.id+' slug');
- if(c.sourceSynced)assert(r.pdf?.url,c.id+' synced report requires checked same-version PDF');
  const sources=ui.sourceMap(r,c);const ids=new Set(sources.list.map(s=>s.id));
  assert.equal(ids.size,sources.list.length,c.id+' duplicate source');
  if(r.format==='markdown'){
@@ -34,11 +33,14 @@ function checkReport(c,r){
 for(const c of catalog){const r=JSON.parse(fs.readFileSync(c.file,'utf8'));checkReport(c,r);reports.set(c.id,r);}
 const history=JSON.parse(fs.readFileSync('research-history.json','utf8'));
 for(const c of catalog)assert(history.revisions.some(r=>r.id===c.id&&r.originalResearchDate),c.id+' missing research history');
+// A source-synced report without a PDF must pass the same full-text and browser checks.
 // This fixture stays in memory and is never added to the public catalog or files.
 const original=Array.from({length:20},(_,i)=>`## ${i+1}、原报告章节\n\n保留原文第${i+1}段，中文、标点、**重点**与来源。[S1]\n`).join('\n')+'\n| 项目 | 数值 |\n| --- | --- |\n| 收入 | 123.45 |\n\n原文结束。\n';
-const fixture={slug:'qa-original-report',company:'原文同步测试',ticker:'TEST',format:'markdown',markdown:original,summary:['来自同一份原研究的摘要。'],source:{title:'芒格式公司分析',researchDate:'2026-09-01',syncedAt:'2026-09-19T10:30:00+08:00',contentSha256:sha256(original)},pdf:{url:'https://example.com/original-report.pdf',label:'下载同版 PDF'},sources:[{id:'S1',title:'测试原始来源',url:'https://example.com/source'}]};
-const fixtureStudy={id:fixture.slug,file:'qa-original-report.json',name:fixture.company,ticker:fixture.ticker,date:fixture.source.researchDate,sector:'测试',verdict:'测试',valuation:'测试',conclusion:'保留原文',lead:'完整原研究',metrics:[],visuals:[]};
+const fixture={slug:'qa-original-report',company:'原文同步测试',ticker:'TEST',format:'markdown',markdown:original,summary:['来自同一份原研究的摘要。'],source:{title:'芒格式公司分析',researchDate:'2026-09-01',syncedAt:'2026-09-19T10:30:00+08:00',contentSha256:sha256(original)},sources:[{id:'S1',title:'测试原始来源',url:'https://example.com/source'}]};
+const fixtureStudy={id:fixture.slug,sourceSynced:true,file:'qa-original-report.json',name:fixture.company,ticker:fixture.ticker,date:fixture.source.researchDate,sector:'测试',verdict:'测试',valuation:'测试',conclusion:'保留原文',lead:'完整原研究',metrics:[],visuals:[]};
 checkReport(fixtureStudy,fixture);
+assert(!Object.hasOwn(fixture,'pdf'),'no-PDF fixture unexpectedly contains a PDF');
+assert.equal(ui.reportPdf(fixture),'','no-PDF report must not show a download link');
 assert.equal(ui.markdownHeadings(original).length,20,'long Markdown TOC');
 for(const bad of ['javascript:alert(1)','../private.pdf','//example.com/a.pdf','C:/private.pdf','file:///private.pdf'])assert.equal(ui.safePdfUrl(bad),'','unsafe PDF '+bad);
 assert.equal(ui.safePdfUrl('reports/original-report.pdf'),'reports/original-report.pdf');
@@ -110,7 +112,7 @@ async function run(){
   }
   assert.equal(errors.length,0,errors.join(';'));
   fs.writeFileSync('.qa/results.json',JSON.stringify({checkedAt:new Date().toISOString(),base,results,errors},null,2));
-  console.log(JSON.stringify({pass:true,pages:results.length,companies:catalog.length,charts:catalog.reduce((sum,c)=>sum+(c.visuals||[]).length,0),markdownFixture:!external,errors}));
+  console.log(JSON.stringify({pass:true,pages:results.length,companies:catalog.length,charts:catalog.reduce((sum,c)=>sum+(c.visuals||[]).length,0),markdownFixture:!external,noPdfSyncedFixture:!external,errors}));
  }finally{await browser.close();}
 }
 run().catch(e=>{console.error(e);process.exitCode=1;}).finally(()=>server&&server.close());
