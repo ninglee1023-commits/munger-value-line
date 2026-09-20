@@ -285,6 +285,7 @@ main { min-height: calc(100vh - 150px); }
 }
 .prose > h2:not(:first-of-type) { margin-top: 38px; padding-top: 27px; border-top: 1px solid var(--line); }
 .prose > h3 { color: var(--ink-2); }
+.prose a { overflow-wrap: anywhere; }
 .cite {
   display: inline-flex;
   align-items: center;

@@ -1,0 +1,121 @@
+{
+  "slug": "mtr",
+  "company": "港鐵公司",
+  "ticker": "HKEX: 0066",
+  "format": "markdown",
+  "markdown": "# 完整原稿開始｜company-id=mtr｜研究日=2026-09-21\n\n# 港鐵公司（0066.HK）現代版芒格 Value Line\n**研究日／資料截止：2026-09-21 香港時間**  \n**財政年度：12月31日｜貨幣：港元；表內除每股數據外均為百萬元**\n\n## 1. 公司本質：不要把港鐵當成一間普通鐵路公司\n\n港鐵的經濟模型至少要拆成四層：\n\n1. **香港鐵路運輸**：高固定成本、高營運槓桿，票價受監管，載客量決定網絡利用率。\n2. **車站商務與物業租賃**：廣告、電訊、零售舖及商場/辦公樓租金，利用既有客流與土地位置變現，通常比票務更高回報。\n3. **物業發展**：Rail + Property。港鐵以鐵路帶動土地價值，再與發展商合作；盈利巨大但高度項目化，不能當 recurring earnings。\n4. **海外鐵路及中國內地業務**：輸出營運能力，但歷史證明合約、成本及減值風險不能忽略。\n\n所以研究港鐵最容易犯的錯，是拿 **歸母盈利**直接乘 P/E。\n\n2026H1就是極佳例子：\n\n- 普通股股東應佔經常性業務利潤：**3,434**\n- 物業發展利潤：**12,233**\n- Underlying business profit：**15,667**\n- 投資物業公允價值收益：**205**\n- 歸母盈利：**15,872**\n\n歸母盈利同比 +105.9%，但經常性業務只 +1.3%；真正暴增的是物業發展。[港鐵2026中期報告](https://www.mtr.com.hk/archive/corporate/en/investor/interim2026/EMTRIR26.pdf)\n\n因此本報告核心估值原則是：\n\n> **經常性業務、物業發展、投資物業重估必須分開。**\n\n原始資料：[港鐵2026中期報告](https://www.mtr.com.hk/archive/corporate/en/investor/interim2026/EMTRIR26.pdf?utm_source=chatgpt.com)\n\n---\n\n# 2. 十五年 Value Line：盈利其實經歷了三個不同年代\n\n下表全部按公司歷史摘要口徑。2011–2015取2020年報歷史表；2016–2025採2025年報新版口徑。**2016及2019附近部分分類在新舊報告間有重列差異，因此不把不同版本分部口徑混搭；PAT總額保持公司新版歷史表口徑。**\n\n| 年 | 收入 | 普通股經常利潤 | 物業發展 | Underlying | 股東FV變動 | 歸母PAT |\n|---|---:|---:|---:|---:|---:|---:|\n| 2011 | 33,423 | 6,243 | 4,225 | 10,468 | 5,088 | 15,556 |\n| 2012 | 35,739 | 6,914 | 2,704 | 9,618 | 3,757 | 13,375 |\n| 2013 | 38,707 | 7,437 | 1,163 | 8,600 | 4,425 | 13,025 |\n| 2014 | 40,156 | 8,024 | 3,547 | 11,571 | 4,035 | 15,606 |\n| 2015 | 41,701 | 8,565 | 2,329 | 10,894 | 2,100 | 12,994 |\n| 2016 | 45,189 | 8,916 | 447 | 9,363 | 891 | 10,254 |\n| 2017 | 55,440 | 8,580 | 1,935 | 10,515 | 6,314 | 16,829 |\n| 2018 | 53,930 | 9,020 | 2,243 | 11,263 | 4,745 | 16,008 |\n| 2019 | 54,504 | 4,980 | 4,369 | 9,349 | 2,583 | 11,932 |\n| 2020 | 42,541 | -1,126 | 5,507 | 4,381 | -9,190 | -4,809 |\n| 2021 | 47,202 | 1,808 | 9,343 | 11,151 | -1,599 | 9,552 |\n| 2022 | 47,812 | 157 | 10,480 | 10,637 | -810 | 9,827 |\n| 2023 | 56,982 | 4,281 | 2,083 | 6,364 | 1,420 | 7,784 |\n| 2024 | 60,011 | 7,210 | 10,265 | 17,475 | -1,703 | 15,772 |\n| 2025 | 55,465 | 5,653 | 11,084 | 16,737 | -2,060 | 14,677 |\n| **2026H1** | **26,231** | **3,434** | **12,233** | **15,667** | **205** | **15,872** |\n\n來源：[港鐵2020年報歷史財務摘要](https://www.mtr.com.hk/archive/corporate/en/investor/annual2020/E19.pdf?utm_source=chatgpt.com)；[港鐵2025年報歷史財務摘要](https://www.mtr.com.hk/archive/corporate/en/investor/annual2025/E13.pdf?utm_source=chatgpt.com)；[港鐵2026中期報告](https://www.mtr.com.hk/archive/corporate/en/investor/interim2026/EMTRIR26.pdf?utm_source=chatgpt.com)\n\n### 十五年真正留下的三條線\n\n**收入**由2011年的334億元升至2025年的555億元，14年 CAGR 約 **3.7%**，遠不是高速成長企業。\n\n**經常性利潤**則更值得警惕：2011年62.4億元，2018年曾達90.2億元；疫情後雖恢復，但2025只有56.5億元，仍低於2011年。換言之，港鐵十五年的資產規模與鐵路網絡大幅增加，**普通股經常盈利並沒有同步複利**。\n\n第三條線完全不同：**物業發展盈利極度波動**。2023只有20.8億元，2024為102.7億元，2025為110.8億元，2026H1單半年更達122.3億元。\n\n所以港鐵的歷史盈利不是一條平滑的複利曲線，而是：\n\n> **低增長經常性基礎 + 高波動物業發展 + 公允價值會計波動。**\n\n而且「經常性盈利」本身也不是絕對純淨：例如2022深圳地鐵4號線相關減值約9.62億元、2023瑞典業務約10.22億元減值、2025杭州業務約3.80億元減值均曾進入相關經營結果。因此後續估值仍要做正常化處理，而不能機械採用公司標籤。\n\n---\n\n# 3. 核心利潤引擎：票務不是最漂亮的部分\n\n2026H1經常性業務 EBIT 結構：\n\n| 經常性業務 | EBIT HK$m |\n|---|---:|\n| 香港客運服務 | **-141** |\n| 香港車站商務 | **1,755** |\n| 香港物業租賃及管理 | **2,011** |\n| 香港以外附屬公司鐵路/相關業務 | **430** |\n| 其他業務 | **-181** |\n| 聯營/JV等應佔結果 | **771** |\n| **經常性 EBIT合計** | **4,645** |\n\n[港鐵2026中期報告](https://www.mtr.com.hk/archive/corporate/en/investor/interim2026/EMTRIR26.pdf)\n\n\n這張表是理解港鐵最重要的一張表。\n\n### 鐵路是「流量基礎設施」，不一定是利潤中心\n\n香港客運2026H1 EBIT仍是 **-1.41億元**。\n\n原因不是沒有人搭港鐵，而是鐵路有：\n\n- 巨額維修；\n- 車站與列車人工；\n- 能源；\n- 折舊；\n- 安全及更新；\n- 票價監管。\n\n因此高客流本身不等於高資本回報。\n\n### 真正漂亮的是「已有客流上的第二次變現」\n\n車站商務 EBIT：17.55億元。  \n物業租賃及管理 EBIT：20.11億元。\n\n兩項合計 **37.66億元**，已相當於經常性 EBIT 的約81%。\n\n這就是港鐵最重要的經濟引擎：\n\n> **先用鐵路製造不可替代的人流與地點，再從零售、廣告、電訊及物業租賃取得高質量收益。**\n\n鐵路本身有公共服務屬性；站內商業和上蓋物業才是把網絡稀缺性貨幣化的部分。\n\n---\n\n# 4. 單位經濟：Rail + Property 為甚麼成立？\n\n港鐵最有價值的不是一張車票，而是**車站周邊土地的可達性提升**。\n\n一條新鐵路開通前：\n\n土地A交通不便。\n\n鐵路建成後：\n\nA → 市中心通勤時間下降  \n→ 居住/商業需求提高  \n→ 土地價值上升  \n→ 車站人流增加  \n→ 商場租金及零售價值提高。\n\n因此港鐵可以同時捕捉：\n\n**Fare + Station Commerce + Rent + Development Value。**\n\n這比單純票務公司更好。\n\n但有一個重要限制：\n\n> **鐵路的巨大資本成本並沒有消失。**\n\n2026H1：\n\n- CFO：**7,862**\n- 現有鐵路 CapEx：**5,360**\n- 新鐵路擴建 CapEx：**4,695**\n- 其他資本支出後，總 CapEx：**10,496**\n\n單是 CapEx 已高於半年 CFO。[港鐵2026中期報告](https://www.mtr.com.hk/archive/corporate/en/investor/interim2026/EMTRIR26.pdf)\n\n如果只看票務和租金，而忽略建鐵路需要的數百億元資本，就會高估生意質量。\n\n更不能把2026H1直接年化：公司最新2026–2028資本開支計劃合計約 **848億元**：\n\n| 年 | 計劃CapEx HK$bn |\n|---|---:|\n| 2026 | 27.2 |\n| 2027 | 29.8 |\n| 2028 | 27.8 |\n| **合計** | **84.8** |\n\n這意味未來幾年仍處於高投入階段。\n\n所以港鐵不是 See's Candies 式：\n\n> 賺100元 → 幾乎100元可分。\n\n它更像：\n\n> **擁有極高質量壟斷式城市資產，但必須持續把大量現金重新投入基礎設施。**\n\n---\n\n# 5. 護城河：極深，但護城河不等於高ROIC\n\n港鐵的護城河幾乎不需要爭論。\n\n### 第一層：實體網絡\n\n競爭者不可能在港鐵旁邊平行再建一套覆蓋香港核心區域的地下鐵。\n\n原因包括：\n\n- 土地；\n- 地下空間；\n- 建設成本；\n- 政府規劃；\n- 法定審批；\n- 網絡連接。\n\n這是非常接近自然壟斷的資產。\n\n### 第二層：Network Density\n\n單一鐵路線價值有限。\n\n當線路互相連接：\n\n更多目的地  \n→ 更多乘客  \n→ 車站價值提高  \n→ 商業及土地價值提高。\n\n這是真正的實體 Network Effect。\n\n### 第三層：Rail + Property制度能力\n\n全球有很多地鐵，但能把鐵路、車站、商場、住宅、辦公樓與土地發展長期整合的營運商並不多。\n\n這套能力涉及：\n\n- 工程；\n- 規劃；\n- 物業；\n- 招商；\n- 鐵路營運；\n- 政府協調。\n\n很難短期複製。\n\n### 第四層：地點本身不可複製\n\nIFC、圓方、德福、青衣城等資產的價值不只是建築物，而是與鐵路人流及城市節點綁定。\n\n---\n\n### 但財務數據同時提供了一個重要反證\n\n如果護城河極深，就一定是超高回報生意嗎？\n\n**不是。**\n\n2011普通股經常利潤62.43億元；2025只有56.53億元。\n\n這說明：\n\n> **港鐵擁有非常深的競爭護城河，但政府規管、公共服務責任、高資本投入、折舊維修與新鐵路投資，會把相當部分壟斷經濟價值留給乘客與城市，而不是全部轉化為股東盈利。**\n\n這是港鐵與 Visa、茅台、Costco 最根本的不同。\n\n港鐵是一個極好的**資產**，不等於它天然是一個極高ROIC的**股東複利機器**。\n\n下一階段研究的核心，就是回答：\n\n> **在未來848億元CapEx、新線建設、浮動年度付款、融資成本及物業發展現金流之下，每一元新增資本究竟能為普通股股東增加多少正常化 Owner Earnings？**\n\n**第1/3段完成｜company-id=mtr**\n\n## 6. Owner Earnings：港鐵不能用「CFO－CapEx」一刀切\n\n港鐵最難分析的地方，是現金流同時包含**成熟鐵路、在建新線及物業發展**。2026H1 的現金流如下：\n\n| 2026H1 現金流項目 | HK$m |\n|---|---:|\n| 經營活動現金流 CFO | **7,862** |\n| 物業發展淨現金流入 | **10,045** |\n| 浮動年度付款（Variable Annual Payment） | **-3,330** |\n| 資本開支 | **-10,496** |\n| 普通股現金股息 | **-5,541** |\n\n其中 CapEx 再拆：\n\n- 現有鐵路：**5,360**\n- 新鐵路延伸：**4,695**\n- 其餘：約441\n\n原始財務報告可由港鐵官方 [2026中期業績及報告入口](https://www.mtr.com.hk/en/corporate/investor/results_announcements.html?utm_source=chatgpt.com) 核對；公司亦在官方財務資料庫保存歷年報告。[港鐵業績資料](https://www.mtr.com.hk/en/corporate/investor/results_announcements.html?utm_source=chatgpt.com)\n\n### 為甚麼不能說 FCF = 7,862 − 10,496 = -2,634？\n\n因為10,496中包含至少4,695的新鐵路擴建，這顯然不是全部維持現有盈利所需的 maintenance CapEx。\n\n反過來，也不能把5,360「現有鐵路」全部視為純 maintenance CapEx：當中可能包括更新、提升容量、數碼化及其他能增加未來經濟效益的項目。\n\n所以目前最可靠的結論是：\n\n> **港鐵沒有披露足以精確重建 maintenance CapEx 的資料，因此本報告不製造一個看似精準的 Owner Earnings 數字。**\n\n可以建立範圍概念：\n\n**Recurring Owner Earnings ≈ 經常性營運現金盈利 − 維持性CapEx − 必須支付的年度付款 − 正常稅項/融資成本調整。**\n\n物業發展的100.45億元（10,045百萬港元）現金流入則應另列，因為它高度項目化，不能當作每年 recurring FCF。\n\n還要避免重扣：service concession相關付款、租賃付款若已經反映在現金流分類或年度付款中，就不能在 Owner Earnings 計算中再扣一次。\n\n因此港鐵不像成熟消費公司可以用一個 FCF yield 解決估值；**經常性現金流與物業項目現金流必須分層。**\n\n---\n\n# 7. 資產負債表：流動性很強，但「淨債務」不能粗暴計算\n\n截至2026H1，主要財務位置為：\n\n| 項目 | HK$m |\n|---|---:|\n| Cash / bank balances / deposits | **113,997** |\n| Borrowings及其他相關融資負債 | **170,355** |\n| Service concession obligations | **9,839** |\n| Securities | **17,973** |\n| 財務章指定 investments 口徑 | **16,700** |\n| 普通股股東權益 | **204,274** |\n| 永續資本證券 | **23,496** |\n| 總權益 | **228,458** |\n\n不能直接做：\n\n> (170,355 − 113,997) ÷ 204,274\n\n然後把所得數字稱為港鐵官方 gearing。\n\n原因包括：\n\n1. 公司 gearing 有自己的定義；\n2. securities / investments存在不同財務報表分類；\n3. service concession obligations 與普通借款性質不同；\n4. 永續資本證券在會計上列 equity，但對普通股而言仍有優先分派要求。\n\n港鐵披露的官方 gearing 為 **21.7%**；應使用公司定義，而不是自行創造同名指標。公司2025年底已具有大量借款，同時因發行永續資本證券令現金顯著增加；2025年底總貸款及其他責任為889.23億元、現金及存款442.42億元，永續資本證券234.96億元。[港鐵2025年報](https://www.mtr.com.hk/archive/corporate/en/investor/annual2025/EMTRAR25.pdf?utm_source=chatgpt.com)\n\n2026H1現金大幅增加至約1,140億元，因此短期流動性非常充足，但其中相當部分本來就是為未來巨額建設計劃準備的資金，**不能把所有現金視為可派給普通股股東的「多餘現金」。**\n\n港鐵的信用質量仍非常高：官方列示 S&P 長期評級 **AA+**、Moody's **Aa3**，與香港政府信用支持密切相關。[港鐵財務資料及信用評級](https://www.mtr.com.hk/en/corporate/investor/financialinfo.html?utm_source=chatgpt.com)\n\n---\n\n# 8. 永續資本：會計是 Equity，普通股投資者應視為有成本的資本\n\n港鐵2025年引入 **234.96億元 perpetual capital securities**。2025年底因此總權益由普通股股東權益、永續資本及少數股東權益共同構成；官方年報明確把234.96億元單列。[港鐵2025年報](https://www.mtr.com.hk/archive/corporate/en/investor/annual2025/EMTRAR25.pdf?utm_source=chatgpt.com)\n\n2026H1：\n\n- 永續資本持有人應佔分派：約 **618m**\n- 普通股經常性盈利 **3,434m** 已是普通股口徑，不能再把618m從3,434m重扣一次。\n\n這個區分非常重要。\n\n如果只看「Total Equity」，會把永續證券當成和普通股完全相同的永久資本；但從普通股股東角度：\n\n> **永續資本雖沒有普通債務的固定到期日，卻不是免費資金。其持有人在普通股之前享有約定的分派經濟權利。**\n\n因此未來做 ROIC 或 Equity Value 時至少要分：\n\n- 普通股資本；\n- perpetual capital；\n- debt。\n\n同樣，港鐵披露的 **interest cover 34.8倍**不能直接理解成「票務盈利足以覆蓋利息34.8倍」。\n\n2026H1還有：\n\n- 貸款及資本市場現金/會計利息：約 **1,899m**\n- 資本化利息：約 **793m**\n\n資本化只是把部分建設期利息計入資產成本，**經濟成本沒有消失**。\n\n所以港鐵信用安全很高，不代表普通股的新增資本回報一定很高。\n\n---\n\n# 9. 資本配置：未來三年848億元才是最重要的考試\n\n港鐵目前真正的大問題不是能否融資，而是：\n\n> **這些新投入資本最終能產生多少普通股 Owner Earnings？**\n\n公司最新2026–2028 CapEx計劃：\n\n| 年份 | 計劃CapEx |\n|---|---:|\n| 2026 | **HK$27.2bn** |\n| 2027 | **HK$29.8bn** |\n| 2028 | **HK$27.8bn** |\n| **三年合計** | **HK$84.8bn** |\n\n這相當於2025年普通股經常性盈利56.53億元的約 **15倍**。\n\n所以單看「鐵路網絡擴張」並不能證明創造股東價值。\n\n真正應該計算的是：\n\n> 新增經常性 NOPAT + 新增車站商務/租賃盈利 + 可歸屬土地價值  \n> 除以  \n> 港鐵實際投入的新增資本。\n\n目前公司沒有提供足夠資料，把848億元完整拆成：\n\n- maintenance；\n- capacity enhancement；\n- mandatory public-service investment；\n- growth CapEx；\n\n因此本報告**不捏造 Incremental ROIC**。\n\n但我們可以清楚看到資本配置的方向：2025年底 railway construction in progress 已由113.75億元升至178.79億元，而借款亦增加；公司同時發行永續資本以擴大資金來源。[港鐵2025年報](https://www.mtr.com.hk/archive/corporate/en/investor/annual2025/EMTRAR25.pdf?utm_source=chatgpt.com)\n\n2026年4月又安排多批綠色固定利率票據，包括2031、2036及2056年到期債券，顯示公司正在為長期建設週期鎖定資金。[港鐵官方公告](https://www.mtr.com.hk/en/corporate/investor/announcement.html?utm_source=chatgpt.com)\n\n這不是財務危機訊號，而是：\n\n> **港鐵已進入一個非常重的再投資週期。**\n\n因此未來三至五年的投資判斷，CapEx productivity 比當期 P/E 更重要。\n\n---\n\n## 9.1 股息並不是剩餘現金才派\n\n2025全年 DPS：\n\n**HK$1.31**\n\n2026H1中期 DPS：\n\n**HK$0.42**；公司官方財務日曆顯示中期股息於2026年9月15日支付。[港鐵財務日曆](https://www.mtr.com.hk/en/corporate/investor/corpcalendar.html?utm_source=chatgpt.com)\n\n2026H1普通股現金股息支出約 **55.41億元**。\n\n這和 CapEx、年度付款同時發生。\n\n所以港鐵資本配置實際是：\n\n**營運現金 + 物業現金 → 鐵路投資 + 股息 + 年度付款 + 融資成本**\n\n不足部分再由：\n\n**借款 / 債券 / 永續資本**\n\n補充。\n\n這與一間「FCF全部派息」的成熟公用股不同。\n\n---\n\n# 10. 治理、利益分配與同行：護城河價值並不全歸普通股\n\n港鐵最特殊的地方是香港政府既是：\n\n- 控股股東；\n- 鐵路政策制定者；\n- 土地及規劃體系核心；\n- 公共交通利益代表者。\n\n這帶來極低的 franchise risk 和很強融資能力，但也意味：\n\n> **港鐵不能把自然壟斷的全部經濟租值最大化給普通股股東。**\n\n票價機制、服務標準、新線投資、公共政策及土地安排，都涉及股東以外的利益相關者。\n\n這也是為甚麼港鐵可以有世界級護城河，卻沒有世界級壟斷企業的利潤率與 ROIC。\n\n另一個需要單獨看的問題是稅務。\n\n目前稅務爭議涉及累計約 **68億元**。其中約 **33億元為已購買的儲稅券（Tax Reserve Certificates）**，在資產負債表列作 *Debtors and other receivables*，屬資產，**不是稅務撥備、不是已費用化稅項，也不代表已覆蓋33億元潛在稅務責任**。公司就相關爭議目前已作的部分會計撥備約 **2億元**。因此估值應把68億元爭議作情境風險分析，而不能把33億元儲稅券稱為「tax reserve/provision」或據此暗示現有撥備足夠。案件預計2027年初進入上訴程序。\n\n### 可比同行應分三類，而不是只找「另一間香港地鐵」\n\n| 可比類型 | 公司 | 用途 |\n|---|---|---|\n| 香港交通 | **Transport International / 九巴母公司（0062.HK）** | 比較公共交通、票價與高固定成本 economics |\n| 亞洲鐵路+地產 | **Tokyu Corp（9005.T）** | 最接近鐵路、車站商業、物業綜合模式 |\n| 亞洲大型鐵路 | **JR East（9020.T）** | 比較成熟鐵路網絡、站內商業與資本密集度 |\n| 地產參照 | 香港大型收租/發展商 | 用於拆分港鐵租賃與物業價值，而非整體直接P/E比較 |\n\n港鐵不應與九巴直接用 P/E 判輸贏：港鐵擁有土地發展、商場、站內商業和海外鐵路；九巴沒有相同資產結構。\n\nTokyu和JR East則更有分析價值：它們說明成熟鐵路企業真正提高股東回報的方法，通常不是不停提高票價，而是：\n\n**把既有人流轉化成零售、物業、廣告、酒店、辦公及城市開發收入。**\n\n港鐵在這一點上甚至擁有更純粹的 Rail + Property 能力。\n\n但海外經驗也提供反證：Elizabeth Line合約於2025年5月結束、Stockholm合約於2025年11月結束，這些不是2026香港客運需求下跌，而是海外合約組合改變。海外營運可以輸出 know-how，卻未證明能像香港車站商務及物業一樣形成深厚經濟租值。\n\n因此到目前為止，港鐵最可靠的價值排序仍然是：\n\n> **香港鐵路網絡稀缺性 → 車站商務/租賃變現 → Rail + Property → 海外營運。**\n\n而不是反過來。\n\n官方2025年報、2026中期業績與歷年財務資料可分別由 [港鐵2025年報](https://www.mtr.com.hk/en/corporate/investor/2025frpt.html?utm_source=chatgpt.com)、[港鐵2026業績資料入口](https://www.mtr.com.hk/en/corporate/investor/results_announcements.html?utm_source=chatgpt.com) 及 [港鐵歷年財務報告資料庫](https://www.mtr.com.hk/en/corporate/investor/financialinfo.html?utm_source=chatgpt.com) 核對。官方亦確認港鐵長期信用評級保持 S&P AA+、Moody's Aa3。[港鐵2025年報入口](https://www.mtr.com.hk/en/corporate/investor/2025frpt.html?utm_source=chatgpt.com)\n\n**第2/3段完成｜company-id=mtr**\n\n## 11. 估值：把「經常性生意」和「物業發展」分開，而不是直接套 P/E\n\n研究日前最後可重現交易價格為 **2026-09-18 HK$32.98**；StockAnalysis 歷史頁列示當日 Open 32.70、High 32.98、Low 32.48、Close 32.98，屬第三方延遲市場數據而非 HKEX 官方報價。[StockAnalysis港鐵歷史價格](https://stockanalysis.com/quote/hkg/0066/history/)\n\n截至2026-08-31普通股 **6,224,823,171股**，政府持股74.45%。因此按HK$32.98計：\n\n- 普通股市值：約 **HK$205.3bn**\n- 2025 DPS：HK$1.31\n- 回望股息率：約 **4.0%**\n\n股份及股息數據可由港鐵官方核對。[港鐵股份及股息資料](https://www.mtr.com.hk/en/corporate/investor/shareservices.html?utm_source=chatgpt.com)\n\n### 11.1 為甚麼 headline P/E 幾乎沒有用？\n\n2025歸母PAT 146.77億元，其中：\n\n- 普通股經常利潤：56.53億元\n- 物業發展：110.84億元\n- 投資物業FV：-20.60億元\n\n2026H1則完全反過來：物業發展單半年已122.33億元，而經常利潤只有34.34億元。[港鐵2025全年業績新聞稿](https://www.mtr.com.hk/archive/corporate/en/press_release/PR-26-020-E.pdf?utm_source=chatgpt.com)\n\n因此不能把2026H1 PAT 158.72億元乘2，再算「6倍PE」。\n\n### 11.2 分部估值框架\n\n我採：\n\n**普通股價值 = 正常化經常性盈利價值 + 正常化物業發展價值 − 資本負擔/風險調整**\n\n不另外把全部1,140億元現金加回，因其中大量現金及融資能力服務未來848億元CapEx；也不把永續資本當普通股現金。\n\n### Bear / Base / Bull\n\n|  | Bear | Base | Bull |\n|---|---:|---:|---:|\n| 正常化經常利潤 | HK$5.0bn | HK$6.5bn | HK$8.0bn |\n| 給予倍數 | 12x | 15x | 17x |\n| 經常業務價值 | 60bn | 97.5bn | 136bn |\n| 正常化年均物業發展盈利 | 5bn | 8bn | 10bn |\n| 物業盈利倍數 | 4x | 6x | 7x |\n| 物業發展價值 | 20bn | 48bn | 70bn |\n| 其他資產/負債及資本週期調整 | -15bn | +25bn | +35bn |\n| **普通股權益價值** | **65bn** | **170.5bn** | **241bn** |\n| **每股** | **HK$10.44** | **HK$27.39** | **HK$38.72** |\n\n這不是目標價預測，而是估值敏感度。\n\n**Bear**假設高CapEx持續、香港客運盈利修復有限、物業結算回落，且融資/稅務等需要更大折價。\n\n**Base**假設經常盈利逐步回到約65億元，但不假設立即重返2018年90億元高位；物業發展以跨週期約80億元正常化，而不是把2026H1的122億元乘二。\n\n**Bull**則要求車站商務、租賃及香港鐵路盈利共同改善，而且新鐵路投資最終產生足夠商業及土地回報。\n\n現價HK$32.98已高於上述Base、低於Bull。因此市場並非只在支付一個低增長鐵路公用事業價格，而是已經給予相當程度的 **Rail + Property未來價值**。\n\n---\n\n# 12. 反證、主要風險與催化\n\n### 最大反證：深護城河沒有轉化成長期經常盈利複利\n\n2011普通股經常利潤62.43億元，2025只有56.53億元。這是對「港鐵網絡愈大，股東盈利必然愈高」最直接的反證。\n\n因此未來若848億元CapEx完成後，經常盈利仍長期停留50–70億元，便表示新增鐵路的社會回報可能很好，但**普通股增量ROIC並不高**。\n\n### 資本開支與融資風險\n\n2026–28計劃CapEx **848億元**。利率、工程超支、延誤及新線回報均可能影響普通股價值。公司信用質量很強，但「能借到錢」和「投入資本回報高」是兩回事。[港鐵財務資料及信用評級](https://www.mtr.com.hk/en/corporate/investor/financialinfo.html?utm_source=chatgpt.com)\n\n### 物業周期\n\n2024、2025及2026H1物業發展盈利很高，但結算時間取決於項目。投資物業FV亦可能正負波動；2025就錄得20.6億元稅後FV損失。[港鐵2025全年業績新聞稿](https://www.mtr.com.hk/archive/corporate/en/press_release/PR-26-020-E.pdf?utm_source=chatgpt.com)\n\n### 稅務爭議\n\n目前稅務爭議涉及累計約 **68億元**。其中約 **33億元為已購買的儲稅券（Tax Reserve Certificates）**，在資產負債表列作 *Debtors and other receivables*，屬資產，**不是稅務撥備、不是已費用化稅項，也不代表已覆蓋33億元潛在稅務責任**。公司就相關爭議目前已作的部分會計撥備約 **2億元**。因此估值應把68億元爭議作情境風險分析，而不能把33億元儲稅券稱為「tax reserve/provision」或據此暗示現有撥備足夠。案件預計2027年初進入上訴程序。\n\n### 北環綫：既是催化，也是資本考試\n\n政府最新於9月18日授權北環綫支綫方案；公司官方新聞索引確認該日公告。[港鐵官方新聞](https://www.mtr.com.hk/en/corporate/news/corporate.php?utm_source=chatgpt.com) 但授權本身**沒有披露新增會計盈利或最終Part 2融資條件**，不能直接轉化成估值增量。\n\n現有Part 1估計工程成本約388.66億元（不含融資成本），並透過R+P相關土地價值安排填補資金缺口；整體主線與支線目標不遲於2034年同步投入服務。[港鐵2025年報財務附註](https://www.mtr.com.hk/archive/corporate/en/investor/annual2025/E34.pdf?utm_source=chatgpt.com)\n\n真正催化不是「宣布新鐵路」，而是最終融資安排證明：\n\n> **港鐵投入的普通股資本能取得商業上合理回報。**\n\n---\n\n# 13. 未來只需盯五個KPI\n\n| KPI | 基準/方向 | Thesis意義 |\n|---|---|---|\n| **普通股經常利潤** | 2025 5.653bn；26H1 3.434bn | 比PAT更能看核心盈利是否真正復甦 |\n| **香港客運EBIT** | 26H1 **-141m** | 判斷龐大鐵路網能否重新成為盈利而非單純流量基礎 |\n| **車站商務+租賃EBIT** | 26H1 **3.766bn** | 港鐵最優質的網絡變現能力 |\n| **CapEx / 新增經常盈利** | 2026–28 CapEx 84.8bn | 最接近未來Incremental ROIC的實證 |\n| **物業發展盈利的3–5年平均** | 2024 10.265bn；2025 11.084bn；26H1 12.233bn | 避免用單一交樓高峰估值 |\n\n若公司未來開始披露更清楚的 maintenance vs growth CapEx，應立即把它加入第一級KPI。目前這仍是重要證據缺口。\n\n---\n\n# 14. 芒格式結論、證據缺口與來源台帳\n\n港鐵最有意思的地方，是它展示了：\n\n> **護城河深度與股東資本回報並不是同一件事。**\n\n香港鐵路網絡幾乎不可複製；車站人流、商場、廣告及上蓋土地構成非常深的結構性優勢。但十五年數據沒有顯示普通股經常盈利同步複利。\n\n真正優質的經濟引擎是：\n\n**鐵路帶來人流 → 車站商務及租賃變現 → R+P捕捉部分土地增值。**\n\n真正限制普通股回報的是：\n\n**公共服務責任 + 巨額維持/擴張資本 + 票價規管 + 新線融資 + 物業盈利波動。**\n\n因此在HK$32.98基準價下，研究重點不應是「headline P/E低不低」，而應是市場目前已支付多少未來Rail + Property價值，以及848億元新一輪投入最終能增加多少正常化普通股Owner Earnings。[StockAnalysis港鐵歷史價格](https://stockanalysis.com/quote/hkg/0066/history/)\n\n### 尚未解決的證據缺口\n\n1. maintenance CapEx與growth CapEx沒有足夠細分，無法可靠計算Owner Earnings；\n2. 新鐵路各項目的普通股投入、政府/R+P資助與預期回報尚未完整披露；\n3. 北環綫Part 2最終融資、營運及維護協議尚未完整落定；\n4. 物業發展沒有適合直接年化的穩定年度盈利；\n5. service concession、年度付款及項目資金需要逐項避免與CapEx重扣；\n6. 因此目前不應給出虛假精準的集團ROIC。\n\n### 主要原始來源\n\n- [港鐵2026中期報告](https://www.mtr.com.hk/archive/corporate/en/investor/interim2026/EMTRIR26.pdf?utm_source=chatgpt.com)\n- [港鐵2025年報－歷史財務摘要](https://www.mtr.com.hk/archive/corporate/en/investor/annual2025/E13.pdf?utm_source=chatgpt.com)\n- [港鐵2025年報－財務回顧](https://www.mtr.com.hk/archive/corporate/en/investor/annual2025/E12.pdf?utm_source=chatgpt.com)\n- [港鐵2025年報－財務報表附註](https://www.mtr.com.hk/archive/corporate/en/investor/annual2025/E34.pdf?utm_source=chatgpt.com)\n- [港鐵2020年報－長期歷史資料](https://www.mtr.com.hk/archive/corporate/en/investor/annual2020/E19.pdf?utm_source=chatgpt.com)\n- [港鐵股份資料及政府持股](https://www.mtr.com.hk/en/corporate/investor/shareservices.html?utm_source=chatgpt.com)\n- [北環綫Part 1項目協議官方新聞稿](https://www.mtr.com.hk/archive/corporate/en/press_release/PR-25-047-E.pdf?utm_source=chatgpt.com)\n- [港鐵2026年9月官方新聞及北環綫支綫公告索引](https://www.mtr.com.hk/en/corporate/news/corporate.php?utm_source=chatgpt.com)\n\n價格來源另為第三方歷史行情：[0066.HK歷史價格－StockAnalysis](https://stockanalysis.com/quote/hkg/0066/history/?utm_source=chatgpt.com)；頁面可重現2026-09-18 Close HK$32.98，但不把它表述為HKEX官方報價。[StockAnalysis港鐵歷史價格](https://stockanalysis.com/quote/hkg/0066/history/)\n\n**完整原稿結束｜company-id=mtr｜研究日=2026-09-21**\n",
+  "subtitle": "十五年經營軌跡｜分開經常盈利、物業發展與資本投入，看Rail + Property如何轉化為普通股回報。",
+  "asof": "2026-09-21",
+  "revision": "munger-original-20260921-8650d889e584",
+  "source": {
+    "title": "每日芒格式公司研究（原對話全文轉錄）",
+    "researchDate": "2026-09-21",
+    "syncedAt": "2026-09-20T17:06:02.426Z",
+    "contentSha256": "8650d889e584c6461e92c93435b687fdd1992ebb4de9c085d09f511298198cef"
+  },
+  "basis": "原研究日與資料截止日：2026-09-21（香港）。金額圖表為百萬港元，2011–2015採2020年報p94，2016–2025採2025年報p58，保留2016及2019分類差異。盈利採普通股口徑，已扣永續持有人份額；2026H1為半年，不年化。維持性CapEx未足披露，現金流項目不直接等同Owner Earnings。HK$32.98為StockAnalysis列示的2026-09-18收市歷史價格，屬第三方資料、非即時或HKEX官方報價；情景盈利、倍數及資本調整均為原稿分析假設。\n正文完整承接原研究第1–14章，並按原研究端2026-09-21勘誤修正物業現金流單位、浮動年度付款名稱及儲稅券口徑。",
+  "summary": [
+    "2026H1普通股經常性盈利34.34億港元、物業發展盈利122.33億港元；歸母淨利158.72億港元，不能把物業結算高峰直接年化。",
+    "香港客運2026H1 EBIT虧損1.41億港元，車站商務與租賃EBIT合計37.66億港元，是核心網絡變現來源。",
+    "2026–2028計劃資本開支848億港元；公司未充分拆分維持性與增長性投入，原稿保留Owner Earnings及增量ROIC的證據缺口。",
+    "原稿Bear／Base／Bull每股情景為HK$10.44／27.39／38.72，屬敏感度假設；其他資產與資本週期調整未提供逐項價值橋，不能視為已核定目標價。"
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "title": "港鐵2020年報：十年統計",
+      "url": "https://www.mtr.com.hk/archive/corporate/en/investor/annual2020/E19.pdf",
+      "detail": "印刷p94／分冊PDF第1頁；2011–2015收入、普通股股東經常性、物業、underlying、公允值及淨利。"
+    },
+    {
+      "id": "S2",
+      "title": "港鐵2025年報：十年統計",
+      "url": "https://www.mtr.com.hk/archive/corporate/en/investor/annual2025/E13.pdf",
+      "detail": "印刷p58／分冊PDF第1頁；2016–2025。2016、2019物業／公允值較2020年報分類不同，採此較新呈列。"
+    },
+    {
+      "id": "S3",
+      "title": "港鐵2026中期報告",
+      "url": "https://www.mtr.com.hk/archive/corporate/en/investor/interim2026/EMTRIR26.pdf",
+      "detail": "印刷p25–29財務回顧、p31比率定義、p52利息、p53稅務、p54股息及EPS；2026H1，不年化。"
+    },
+    {
+      "id": "S4",
+      "title": "港鐵2025年報：財務回顧",
+      "url": "https://www.mtr.com.hk/archive/corporate/en/investor/annual2025/E12.pdf",
+      "detail": "印刷p50–57；永續券分派636、杭州減值380、2025現金流及资本開支。"
+    },
+    {
+      "id": "S5",
+      "title": "港鐵2026年8月股份月報",
+      "url": "https://www.mtr.com.hk/archive/corporate/en/investor/sehk/e_FF301_MONTHLY_RETURN_EQUITY_V1_2_1_August2026.pdf",
+      "detail": "PDF第2頁；2026-08-31已發行6,224,823,171股，庫存股0。"
+    },
+    {
+      "id": "S6",
+      "title": "北環線支線鐵路方案獲授權",
+      "url": "https://www.mtr.com.hk/archive/corporate/en/press_release/PR-26-064-E.pdf",
+      "detail": "2026-09-18，PDF第1頁；約6.2公里、目標不遲於2034年。此新聞未披露新入賬利潤或最終融資。"
+    },
+    {
+      "id": "S7",
+      "title": "港鐵股份、政府持股及股息資料",
+      "url": "https://www.mtr.com.hk/en/corporate/investor/shareservices.html",
+      "detail": "原稿第11章引用；已發行普通股數與政府持股、股息資料。"
+    },
+    {
+      "id": "S8",
+      "title": "港鐵官方財務日曆",
+      "url": "https://www.mtr.com.hk/en/corporate/investor/corpcalendar.html",
+      "detail": "2026年財務日曆；中期股息支付日期15 September。"
+    },
+    {
+      "id": "S9",
+      "title": "港鐵財務報告及信用評級",
+      "url": "https://www.mtr.com.hk/en/corporate/investor/financialinfo.html",
+      "detail": "官方評級表列S&P AA+及Moody’s Aa3；歷年財報索引。"
+    },
+    {
+      "id": "S10",
+      "title": "港鐵官方公告資料庫",
+      "url": "https://www.mtr.com.hk/en/corporate/investor/announcement.html",
+      "detail": "原稿第9章引用；2026年4月綠色票據2031／2036／2056年到期公告。"
+    },
+    {
+      "id": "S11",
+      "title": "港鐵2025年報全文",
+      "url": "https://www.mtr.com.hk/archive/corporate/en/investor/annual2025/EMTRAR25.pdf",
+      "detail": "原稿第7–9章引用；2025年末資產負債與在建鐵路。"
+    },
+    {
+      "id": "S12",
+      "title": "北環綫Part 1項目協議官方新聞稿",
+      "url": "https://www.mtr.com.hk/archive/corporate/en/press_release/PR-25-047-E.pdf",
+      "detail": "原稿第12、14章引用；Part 1項目與資金安排。"
+    },
+    {
+      "id": "S13",
+      "title": "港鐵2025全年業績新聞稿",
+      "url": "https://www.mtr.com.hk/archive/corporate/en/press_release/PR-26-020-E.pdf",
+      "detail": "原稿第11–12章引用；FY2025盈利及物業公允值結果。"
+    },
+    {
+      "id": "S14",
+      "title": "港鐵2025年報財務報表附註",
+      "url": "https://www.mtr.com.hk/archive/corporate/en/investor/annual2025/E34.pdf",
+      "detail": "原稿第12、14章引用；項目協議等財務附註。"
+    },
+    {
+      "id": "S15",
+      "title": "港鐵官方新聞索引",
+      "url": "https://www.mtr.com.hk/en/corporate/news/corporate.php",
+      "detail": "原稿引用2026-09-18北環綫支綫公告；具體新聞稿另列S6。"
+    },
+    {
+      "id": "S16",
+      "title": "StockAnalysis：港鐵歷史價格（第三方）",
+      "url": "https://stockanalysis.com/quote/hkg/0066/history/",
+      "detail": "2026-09-18表列Close HK$32.98；S&P Global歷史行情來源，非HKEX官方即時報價。"
+    }
+  ]
+}

@@ -45,6 +45,8 @@ assert.equal(ui.markdownHeadings(original).length,20,'long Markdown TOC');
 for(const bad of ['javascript:alert(1)','../private.pdf','//example.com/a.pdf','C:/private.pdf','file:///private.pdf'])assert.equal(ui.safePdfUrl(bad),'','unsafe PDF '+bad);
 assert.equal(ui.safePdfUrl('reports/original-report.pdf'),'reports/original-report.pdf');
 assert.equal(ui.inlineRich(String.raw`footnote \* and \*\*`,{}),'footnote * and **');
+const queryLink=ui.inlineRich('[CEC](https://www1.hkexnews.hk/search/titlesearch.xhtml?category=0&lang=EN&market=SEHK&stockId=1869)',{});
+assert.deepEqual([...new URL(queryLink.match(/href="([^"]+)"/)[1].replaceAll('&amp;','&')).searchParams.entries()],[['category','0'],['lang','EN'],['market','SEHK'],['stockId','1869']],'Markdown query parameters escaped twice');
 assert(ui.renderMarkdown('3. Third item\n\n4. Fourth item',{}).includes('<ol start="4">'),'original list numbering');
 assert(ui.renderMarkdown('### Original subheading',{}).includes('<h3'),'subheading semantics');
 assert(!ui.reportMetadata({source:{title:'<script>bad</script>'}},fixtureStudy).includes('<script>'),'source HTML injection');
@@ -94,7 +96,7 @@ async function run(){
     const r=reports.get(c.id);
     if(width===1440){const response=await page.request.get(new URL(c.file,base).href);assert(response.ok(),c.id+' report fetch');assert.deepEqual(await response.json(),r,c.id+' deployed JSON differs from checked local report');}
     await page.goto(base+'#/article/'+c.id,{waitUntil:'networkidle'});results.push(await inspectArticle(page,c,r,width));
-    if(['pdd','midea','yumc'].includes(c.id)){
+    if(['bestmart360','hket','mtr','tsitwing'].includes(c.id)){
      await page.evaluate(()=>scrollTo(0,0));await page.screenshot({path:'.qa/'+c.id+'-'+width+'.png'});
      if((c.visuals||[]).length)await page.locator('#evidence').screenshot({path:'.qa/'+c.id+'-charts-'+width+'.png'});
     }
