@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -246,6 +246,39 @@
       "sourceTitle": "每日芒格式公司研究（原對話全文轉錄）",
       "sourceNote": "完整承接原研究第1–14章及原作者2026-09-21勘誤：補清半年盈利與現金流、情境Owner Earnings定義、CFO指標、維持性投入與公告覆核範圍，並更正JDE Peet’s已退市身份。",
       "contentSha256": "0c62680acf426fd3b44c88d723d89717f4abff7e63af41435374e9819d2842cb"
+    },
+    {
+      "id": "anta",
+      "company": "安踏體育",
+      "peers": [
+        "李寧（2331.HK）",
+        "特步國際（1368.HK）",
+        "Nike（NKE）",
+        "adidas（ADS.DE）"
+      ],
+      "originalResearchDate": "2026-09-21",
+      "date": "2026-09-22",
+      "revision": "munger-original-20260921-34dab93fc2b1",
+      "chapters": 14,
+      "sourceTitle": "每日芒格式公司研究（完整Markdown定稿）",
+      "sourceNote": "完整承接原研究端Markdown定稿第1–14章、表格及公開來源鏈接；網站未另行研究或重寫。",
+      "contentSha256": "34dab93fc2b1fc4aa9ae436da5ebfc16948bc0113842a66db9740b6a1629f534"
+    },
+    {
+      "id": "midea",
+      "company": "美的集團",
+      "peers": [
+        "海爾智家（600690.SH／6690.HK）",
+        "格力電器（000651.SZ）",
+        "Daikin Industries（6367.T）"
+      ],
+      "originalResearchDate": "2026-09-22",
+      "date": "2026-09-22",
+      "revision": "munger-original-20260922-c59683d24a99",
+      "chapters": 14,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究第1–14章、表格及公開來源；移除內部引用標記後以原稿末端的公開來源鏈接呈現，網站未另行研究或改寫。",
+      "contentSha256": "c59683d24a9918f854dd3addc1345288d9a816ba16a7535ab3a08514862e4922"
     }
   ]
 }

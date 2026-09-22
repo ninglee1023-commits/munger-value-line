@@ -250,6 +250,8 @@ main { min-height: calc(100vh - 150px); }
 .toc a:hover, .toc a:focus-visible { color: var(--ink); background: var(--green-soft); }
 .article-content { min-width: 0; }
 .report-section {
+  min-width: 0;
+  overflow: hidden;
   margin: 0 0 16px;
   padding: 27px 29px;
   background: #fff;
