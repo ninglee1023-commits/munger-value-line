@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22",
+  "updated": "2026-09-24",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -279,6 +279,21 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究第1–14章、表格及公開來源；移除內部引用標記後以原稿末端的公開來源鏈接呈現，網站未另行研究或改寫。",
       "contentSha256": "c59683d24a9918f854dd3addc1345288d9a816ba16a7535ab3a08514862e4922"
+    },
+    {
+      "id": "shenzhou-international",
+      "company": "申洲國際",
+      "peers": [
+        "Crystal International Group（2232.HK）",
+        "Regina Miracle International（2199.HK）"
+      ],
+      "originalResearchDate": "2026-09-23",
+      "date": "2026-09-24",
+      "revision": "munger-original-20260923-00c6f4205c02",
+      "chapters": 14,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究第1–14章、表格、估值、風險、KPI及公開來源；只移除內部引用標記，網站未另行研究或改寫。",
+      "contentSha256": "00c6f4205c02c474d84cfee9dea8f6543a29201f0c5afaa15311b76d7cc8331d"
     }
   ]
 }
