@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -294,6 +294,22 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究第1–14章、表格、估值、風險、KPI及公開來源；只移除內部引用標記，網站未另行研究或改寫。",
       "contentSha256": "00c6f4205c02c474d84cfee9dea8f6543a29201f0c5afaa15311b76d7cc8331d"
+    },
+    {
+      "id": "cr-beer",
+      "company": "華潤啤酒",
+      "peers": [
+        "青島啤酒（0168.HK）",
+        "Budweiser APAC（1876.HK）",
+        "重慶啤酒（600132.SH）"
+      ],
+      "originalResearchDate": "2026-09-24",
+      "date": "2026-09-25",
+      "revision": "munger-original-20260924-7c828f68fd82",
+      "chapters": 14,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究第1–14章、長期表、同行比較、估值、風險、KPI及公開來源；只移除內部引用標記，網站未另行研究或改寫。",
+      "contentSha256": "7c828f68fd82f8fd342567dddff1ca8a65b8af01dc473a4b2b1e68cbb2fe2656"
     }
   ]
 }
