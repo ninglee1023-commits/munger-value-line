@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -326,6 +326,22 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究第1–14章、長期表、同行比較、估值、風險、KPI及公開來源；只移除內部引用標記。原稿company-id=sf-holding，為保持既有網站連結，公開文章沿用slug=sf；網站未另行研究或改寫。",
       "contentSha256": "76b86920d73be5a8949235893377e01797a1c96d472fe928349d2376924dfa3c"
+    },
+    {
+      "id": "tencent",
+      "company": "騰訊控股",
+      "peers": [
+        "網易（9999.HK）",
+        "阿里巴巴（9988.HK／BABA）",
+        "Meta Platforms（META）"
+      ],
+      "originalResearchDate": "2026-09-26",
+      "date": "2026-09-27",
+      "revision": "munger-original-20260926-c4e4547b9869",
+      "chapters": 14,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究第1–14章、長期表、同行比較、估值假設、風險、KPI及公開來源；只移除內部引用標記及四個沒有URL的空白無效連結標記，所有有效公開來源均完整保留；網站未另行研究或改寫。",
+      "contentSha256": "c4e4547b986912d4b11380cda7feff54455be1fdd4eef7a6a202555ff84c3daa"
     }
   ]
 }
