@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-10-08",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -358,6 +358,156 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究第1–14章、長期表、同行比較、估值假設、風險、KPI及全部八個公開來源鏈接；只移除43個內部引用標記，網站未另行研究或改寫。",
       "contentSha256": "e52ac849dfa2cb7220a61011da11f503d89862979ad3b649dfa59afdd1bdd864"
+    },
+    {
+      "id": "byd",
+      "company": "比亞迪股份",
+      "peers": [
+        "Geely Auto",
+        "Tesla",
+        "Li Auto"
+      ],
+      "originalResearchDate": "2026-09-28",
+      "date": "2026-10-08",
+      "revision": "munger-original-20260928-b415d507bdf1",
+      "chapters": 14,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部章節、長期表、同行比較、估值假設、風險、KPI及公開來源；只移除內部引用標記，網站未另行研究或改寫。",
+      "contentSha256": "b415d507bdf14d8996b08e6bad11ed77205f68fa4bcb70e94bafca39e0d5f9a3"
+    },
+    {
+      "id": "cmb",
+      "company": "招商銀行",
+      "peers": [
+        "寧波銀行",
+        "平安銀行",
+        "工商銀行"
+      ],
+      "originalResearchDate": "2026-09-29",
+      "date": "2026-10-08",
+      "revision": "munger-original-20260929-87949bc7d953",
+      "chapters": 14,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部章節、長期表、同行比較、估值假設、風險、KPI及公開來源；只移除內部引用標記，網站未另行研究或改寫。",
+      "contentSha256": "87949bc7d9533e5de6a4e042754c3df3d3e59b09a49575f30b25b7fe304f4ffa"
+    },
+    {
+      "id": "meituan",
+      "company": "美團",
+      "peers": [],
+      "originalResearchDate": "2026-09-30",
+      "date": "2026-10-08",
+      "revision": "munger-original-20260930-ef14a170c5d2",
+      "chapters": 16,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部章節、長期表、同行比較、估值假設、風險、KPI及公開來源；只移除內部引用標記，網站未另行研究或改寫。",
+      "contentSha256": "ef14a170c5d29b0481b108a91a4eec9ec99888a1998e93ee23a397c73a2827eb"
+    },
+    {
+      "id": "catl",
+      "company": "寧德時代",
+      "peers": [
+        "BYD",
+        "LG Energy Solution",
+        "EVE Energy"
+      ],
+      "originalResearchDate": "2026-10-01",
+      "date": "2026-10-08",
+      "revision": "munger-original-20261001-fc92af8693ea",
+      "chapters": 17,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部章節、長期表、同行比較、估值假設、風險、KPI及公開來源；只移除內部引用標記，並移除九個無法公開存取的內部附件鏈接，網站未另行研究或改寫。",
+      "contentSha256": "fc92af8693ea9bb69add33ab29fddad13aff49c1e9660a433b91ef96e558baaa"
+    },
+    {
+      "id": "yumc",
+      "company": "百勝中國",
+      "peers": [
+        "McDonald's",
+        "Yum! Brands",
+        "Luckin Coffee"
+      ],
+      "originalResearchDate": "2026-10-02",
+      "date": "2026-10-08",
+      "revision": "munger-original-20261002-d3db108f0c84",
+      "chapters": 19,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部章節、長期表、同行比較、估值假設、風險、KPI及公開來源；只移除內部引用標記，網站未另行研究或改寫。",
+      "contentSha256": "d3db108f0c84357afcaf3cb660bfd27692f7bb317bad42416e8f39bfadc8951d"
+    },
+    {
+      "id": "haier",
+      "company": "海爾智家",
+      "peers": [],
+      "originalResearchDate": "2026-10-03",
+      "date": "2026-10-08",
+      "revision": "munger-original-20261003-b446a7f9b7f2",
+      "chapters": 22,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究端UTF-8 Markdown附件的全部章節、長期表、同行比較、估值假設、風險、KPI及公開來源；網站未另行研究或改寫。",
+      "contentSha256": "b446a7f9b7f229759c235bb6a01d18aa8aaaaf5615be2e7e3035a9c220690ec0"
+    },
+    {
+      "id": "trip",
+      "company": "攜程集團",
+      "peers": [
+        "Booking Holdings",
+        "Airbnb",
+        "Tongcheng Travel"
+      ],
+      "originalResearchDate": "2026-10-04",
+      "date": "2026-10-08",
+      "revision": "munger-original-20261004-26f107224ba2",
+      "chapters": 22,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究端UTF-8 Markdown附件的全部章節、長期表、同行比較、估值假設、風險、KPI及公開來源；網站未另行研究或改寫。",
+      "contentSha256": "26f107224ba2dab6e6b7ddf696430d628eca2121e7dc37f2d6e7241509fc9901"
+    },
+    {
+      "id": "china-mobile",
+      "company": "中國移動",
+      "peers": [
+        "China Telecom",
+        "China Unicom"
+      ],
+      "originalResearchDate": "2026-10-05",
+      "date": "2026-10-08",
+      "revision": "munger-original-20261005-2181377e4e93",
+      "chapters": 21,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究端UTF-8 Markdown附件的全部章節、長期表、同行比較、估值假設、風險、KPI及公開來源；網站未另行研究或改寫。",
+      "contentSha256": "2181377e4e931aebeb77a1c56b5450df44426309d82a7d54c498e7b87bf8fd45"
+    },
+    {
+      "id": "midea",
+      "company": "美的集團",
+      "peers": [
+        "格力電器",
+        "海爾智家"
+      ],
+      "originalResearchDate": "2026-10-06",
+      "date": "2026-10-08",
+      "revision": "munger-original-20261006-d776ccca0939",
+      "chapters": 21,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部章節、長期表、同行比較、估值假設、風險、KPI及公開來源；只移除內部引用標記及內部實體標記，網站未另行研究或改寫。",
+      "contentSha256": "d776ccca093979b33905fcbdd61095afcde9e2b59c9ab25b3e9f23b128e71ebd"
+    },
+    {
+      "id": "anta",
+      "company": "安踏體育",
+      "peers": [
+        "Li Ning",
+        "Xtep",
+        "Nike"
+      ],
+      "originalResearchDate": "2026-10-07",
+      "date": "2026-10-08",
+      "revision": "munger-original-20261007-ac271390ad4d",
+      "chapters": 24,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部章節、長期表、同行比較、估值假設、風險、KPI及公開來源；只移除內部引用標記及內部實體標記，網站未另行研究或改寫。",
+      "contentSha256": "ac271390ad4da57e7a280bdb927b49a7fd80e530d771872591c14531fdc63780"
     }
   ]
 }

@@ -1,470 +1,88 @@
 {
   "slug": "yumc",
-  "company": "百胜中国",
-  "ticker": "9987.HK / NYSE: YUMC",
-  "subtitle": "门店效率与净回购有证据；新店回本和品牌收购回报必须比门店数更重要。",
-  "asof": "2026-09-18",
-  "revision": "munger-value-line-20260918-v2",
-  "basis": "事实、研究判断、公司指引和估值假设分开。人民币/港元/美元/新台币分别标注；历史与半年度不机械比较。历史缺口不等于公司未披露。",
+  "company": "百勝中國",
+  "ticker": "9987.HK／NYSE:YUMC",
+  "format": "markdown",
+  "markdown": "# 完整原稿｜百勝中國｜2026-10-02\n\n# 百勝中國控股有限公司（9987.HK／NYSE:YUMC）\n## Yum China Holdings, Inc.｜現代版芒格 Value Line 公司研究\n\n**研究日：2026-10-02**  \n**資料截止：2026-10-02 07:56 香港時間；最新完整財務期為2026H1；已納入2026-08-07完成的Pizza Hut中國品牌收購**  \n**固定市場價格基準：2026-09-30 H股歷史收市 HK$322.80；10月1日香港假期休市，因此這是研究日前最新H股收市價**   \n**固定換算匯率：2026-09-30 USD/HKD = 7.8466**   \n**財務報表貨幣：美元；股價：港元**\n\n> **一句話結論：**百勝中國是一門「品牌＋供應鏈＋數字會員＋門店密度＋本地運營」疊加的中國連鎖餐飲複利生意。2016獨立上市至2025，收入由US$6.75bn增至US$11.80bn，CAGR約6.4%；調整後EPS由US$1.28增至US$2.51，CAGR約7.8%，而門店數由7,562家增至18,101家，CAGR約10.2%。真正的價值創造不是靠持續提價，而是靠更多門店、更多交易、更高數字化與配送滲透、供應鏈效率，以及近年大額回購把每股盈利增長推得快於淨利潤。2026Q2收入+13%、OP margin 11.1%，同店銷售+1%而交易量+5%，說明公司仍在以「價值感＋頻次」而非純提價增長。8月公司又以US$1.2bn買下Pizza Hut中國品牌所有權，這將提高Pizza Hut margin，但也把原本高流動性、低金融負債的資產負債表推向約US$0.9bn淨債務。HK$322.80約15.1倍TTM EPS、14.9倍TTM FCF；價格值得進一步研究，但真正的判斷是：在中國餐飲消費偏弱、外賣占比過半、加盟加速與Pizza Hut加槓桿擴張之後，百勝中國能否仍保持中十幾%的資本回報並把自由現金流穩定返還股東。\n\n---\n\n# 1. 結論與能力圈：百勝中國真正賣的是「可複製的餐飲系統」\n\n百勝中國最容易被簡化成「KFC中國」。\n\nKFC確實是最大現金牛，但真正的經濟系統比一個炸雞品牌更廣：\n\n**品牌心智 → 菜單研發 → 大規模採購 → 中央供應鏈 → 門店選址與營運 → 數字會員 → 外賣／到店 → 加盟與新店複製。**\n\n截至2026Q2，公司共有 **19,297家門店**，其中KFC 13,789家、Pizza Hut 4,549家；同季淨增560家門店，41%由加盟商開設，總體加盟店占比18%。公司全年目標超過20,000家店，並希望KFC與Pizza Hut淨新店中40%–50%由加盟商開設。\n\n百勝中國真正的能力圈可以分成五層：KFC與Pizza Hut數十年的中國本地化品牌；全國採購、物流、食品安全與IT供應鏈；門店密度帶來的配送和品牌可見度；龐大的數字會員與配送網絡；以及近年「開店＋加盟＋回購＋股息＋品牌收購」並行的資本配置。\n\n因此真正要問的不是：\n\n> **「中國人還吃不吃KFC？」**\n\n而是：\n\n> **「在中國消費更重視性價比、外賣比例上升、門店快速增加的情況下，百勝中國能否讓新增門店仍有2–3年級別回收期，同時不稀釋整體餐廳margin和ROIC？」**\n\n管理層在2026Q2明確表示，Pizza Hut潛在新店仍須滿足約2–3年的payback要求。\n\n---\n\n# 2. 2026H1：交易量仍增，價格反而下降——這不是典型Pricing Power故事\n\n2026Q2：\n\n| 指標 | 數值 |\n|---|---:|\n| Revenue | **US$3.138bn，+13% reported；+6% ex-FX** |\n| System Sales | **+6% ex-FX** |\n| Same-store sales | **+1%** |\n| Same-store transactions | **+5%** |\n| Operating Profit | **US$348m，+14%** |\n| OP Margin | **11.1%** |\n| Restaurant Margin | **16.1%** |\n| Diluted EPS | **US$0.70，+21%** |\n| Q2股東回報 | **US$402m** |\n\n上半年累計Revenue US$6.409bn、Operating Profit US$795m、歸屬Yum China淨利潤US$553m。\n\n更重要的是單店數據。\n\nKFC Q2：\n- Same-store sales +1%\n- Transactions +4%\n- Ticket average **-3%**\n- Delivery +26%，占公司銷售約54%\n- Restaurant margin **17.1%**\n\nPizza Hut Q2：\n- Same-store sales +1%\n- Transactions **+13%**\n- Ticket average **-11%**\n- Delivery +26%，占公司銷售約52%\n- Restaurant margin **12.9%**。\n\n這組數據非常重要。\n\n百勝中國不是靠「每年把套餐價格提高幾個百分點」來增加收入。相反，公司正在主動推出更低客單價、小份量、單人餐、KCOFFEE、KPRO及value-for-money產品，用更多交易頻次抵銷較低的平均ticket。\n\n所以它的Pricing Power應更準確地描述為：\n\n> **品牌能幫助公司維持流量、菜單吸引力和一定margin，但中國消費者重視性價比時，公司仍需要讓價與擴大消費場景來換取頻次。**\n\n這種定價能力弱於奢侈品牌，卻明顯強於缺乏品牌與供應鏈規模的普通餐廳。\n\n---\n\n# 3. 十年 Value Line：門店增長約10%，EPS增長約8%，不是靠同店高增長複利\n\n2016年11月，百勝中國從Yum! Brands分拆並成為獨立上市公司，因此2016–2025是一段相對乾淨的「完整公司」歷史。\n\n| FY | Revenue US$bn | Adjusted Net Income US$bn | Adjusted Diluted EPS US$ | Restaurant Margin | 年末門店數 |\n|---|---:|---:|---:|---:|---:|\n| 2016 | 6.752 | 0.472 | 1.28 | 15.3% | 7,562 |\n| 2017 | 7.144 | 0.564 | 1.42 | 16.8% | 7,983 |\n| 2018 | 8.415 | 0.606 | 1.53 | 15.7% | 8,484 |\n| 2019 | 8.776 | 0.729 | 1.88 | 16.0% | 9,200 |\n| 2020 | 8.263 | 0.615 | 1.53 | 14.9% | 10,506 |\n| 2021 | 9.853 | 0.525 | 1.21 | 13.7% | 11,788 |\n| 2022 | 9.569 | 0.446 | 1.05 | 14.1% | 12,947 |\n| 2023 | 10.978 | 0.842 | 2.00 | 16.3% | 14,644 |\n| 2024 | 11.303 | 0.911 | 2.33 | 15.7% | 16,395 |\n| 2025 | **11.797** | **0.929** | **2.51** | **16.3%** | **18,101** |\n\n歷年數據可由公司官方年報與全年業績逐年核對。2016 Adjusted EPS為US$1.28；2017為1.42；2018為1.53；2019為1.88；2020為1.53；2021為1.21；2022為1.05；2023為2.00；2024為2.33；2025為2.51。\n\n2016→2025九年：\n\n- Revenue CAGR：約 **6.4%**\n- Adjusted Net Income CAGR：約 **7.8%**\n- Adjusted Diluted EPS CAGR：約 **7.8%**\n- Store Count CAGR：約 **10.2%**\n\n最值得注意的是三件事。\n\n### 門店數增長快過收入\n\n門店CAGR約10%，收入CAGR只有6.4%。\n\n這意味公司正進入更多低線城市、小型店及更低客單價場景，新店需要成熟期，且平均每店收入並沒有隨門店數同步上升。\n\n因此長期增長的主引擎是：\n\n> **門店複製＋交易頻次＋渠道擴張**\n\n而不是持續提價。\n\n### EPS近年開始比盈利增長更快\n\n2023年平均稀釋股數約420m，2024降至390m；2025又回購約24.7m股，相當於2024年末股數約7%。\n\n因此近年的每股價值增長來自：\n\n> **經營盈利增長＋股份數減少**\n\n兩部分，而不是單純餐廳賺更多。\n\n### Restaurant Margin長期非常有韌性\n\n2016為15.3%，2025仍為16.3%。中間經歷疫情、食品與人工成本上升、租金、外賣配送和消費偏弱，長期店級margin沒有永久崩塌。\n\n這是整份報告最重要的好生意證據之一。\n\n---\n\n# 4. 長期盈利不是線性的：疫情和消費週期都能打斷複利\n\n2019是疫情前相對成熟基準：Revenue US$8.78bn、Adjusted NI US$729m、Restaurant margin 16.0%。\n\n2020疫情令Revenue下降6%、Adjusted NI降至US$615m、Restaurant margin跌到14.9%。\n\n2021 Revenue反彈至US$9.85bn，但疫情擾動仍重，Restaurant margin只有13.7%、Adjusted NI US$525m；2022在封控壓力下Adjusted NI再降到446m。\n\n2023重新開放後，Revenue升至US$10.98bn、Restaurant margin16.3%、Adjusted NI US$842m。\n\n2024–2025則進入另一種壓力測試：同店銷售較弱、消費者更看重性價比，但公司通過供應鏈、菜單設計、數字化與新店擴張，仍把企業OP margin維持在10%左右以上。2025 OP達US$1.29bn，OP margin10.9%。\n\n這條歷史線證明：\n\n> **百勝中國不是「同店永遠高增長」的生意，而是一個即使同店周期波動，整套門店系統和成本結構仍能長期複利的生意。**\n\n---\n\n# 5. 單位經濟：真正優勢是把「一間店」變成可重複的資本配置單位\n\n餐飲連鎖最重要的經濟問題不是總門店數，而是：\n\n> **開一間店需要多少資本、多久回本、成熟後留下多少現金。**\n\n公司沒有逐年公開所有店型的完整店級ROIC，因此本稿不硬造一條「每店IRR」曲線。\n\n但2026Q2管理層給出一個很有價值的Pizza Hut標尺：\n\n> **新店需要符合2–3年payback要求。** \n\n這通常代表非常可觀的店級前置回報，但不能直接等同公司ROIC，因仍要扣除總部、IT、品牌、供應鏈、租賃和關店損失。\n\n更重要的是，公司正增加加盟比例。\n\n2026Q2：\n- 淨新店560家\n- **41%由加盟商開設**\n- 總門店中18%已加盟\n- 全年KFC與Pizza Hut淨新店加盟比例目標40%–50%。\n\n這會改變未來Value Line。\n\n加盟化的好處是公司不用投入全部新店資本、可更快進入低線城市，且franchise fee具有很高資本效率。\n\n代價則是加盟商銷售不全額進入Revenue、公司直接控制稍弱，食品安全及標準化要求更高。\n\n所以未來如果加盟比例繼續升高：\n\n> **System Sales、OP、FCF／股和店級回報會比Revenue CAGR更重要。**\n\n---\n\n# 6. KFC護城河：不是炸雞配方，而是中國化的門店操作系統\n\nKFC 2026Q2已有13,789家門店，17%為加盟店。\n\n它的護城河不只在品牌標誌，而是數十年的中國本地化：早餐、粥、米飯、咖啡、牛肉堡、地方口味、小份量與不同價位，使同一品牌覆蓋更多時段與人群。\n\n其次是數字會員。2025公司總會員已超過5.9億，活躍會員超過2.65億；會員、App、優惠、配送和支付讓公司直接擁有消費者關係，而不是完全依賴商場客流。\n\n第三是配送密度。2026Q2 KFC delivery已占公司銷售54%，即一間店不再只是「坐店餐廳」，而是附近幾公里的廚房和履約節點。\n\n第四是全國供應鏈與食品安全標準；第五是KCOFFEE cafe、KPRO、小鎮店、車邊取餐等新門店／模塊，使公司能用同一品牌進入更多價格帶和使用場景。\n\n因此：\n\n> **KFC真正的護城河，是一個在中國被重新設計並運轉三十多年的餐飲操作系統。**\n\n---\n\n# 7. Pizza Hut：US$1.2bn品牌收購，是今天最重要的資本配置決定\n\n2026年8月7日，百勝中國完成以 **US$1.2bn** 購買Pizza Hut品牌在中國大陸的所有權。\n\n此前，公司是Yum! Brands的長期被許可人，需要支付約3%的license fee。\n\n公司預計交易後：\n\n- 省去3%品牌許可費；\n- 扣VAT後，Pizza Hut Restaurant Margin和OP Margin增加約 **2.8ppt**；\n- 2026輕微增厚EPS；\n- 2027–2028產生**中單位數EPS增厚**；\n- 2027、2028 Pizza Hut淨新店目標由每年600+提高到 **800+**。\n\n交易的核心經濟很簡單：\n\n> **把一筆永久性品牌租金，換成一次性買斷。**\n\n公司披露US$1.2bn對被消除license fee的稅後價值相當於約 **19.5x LTM P/E**。\n\n19.5倍不是「煙蒂價」，但若Pizza Hut品牌壽命極長、未來還能開幾千家店，而3%費用永久節省，這可能是一筆合理的品牌資產收購。\n\n真正風險則是：中國披薩市場是否足以支撐更快開店；低價策略會否稀釋品牌與單店收入；新店是否互相蠶食；以及加槓桿後的資本成本。\n\n公司先用一筆約 **US$1.2bn、利率約2%、最長12個月** 的離岸人民幣bridge loan完成交易，長期融資方案仍待決定。\n\n所以這筆交易不能只看EPS增厚：\n\n> **它提高了品牌控制權，也重新把金融槓桿帶入資產負債表。**\n\n---\n\n# 8. 資產負債表：收購前接近淨現金，收購後進入適度淨負債\n\n截至2026-06-30、即Pizza Hut品牌收購前：\n\n- Cash & equivalents：**US$485m**\n- Short-term investments：**US$901m**\n- Long-term bank deposits and notes：**US$688m**\n- Short-term borrowings：**US$66m**。\n\n交易前，公司有大量金融資產、銀行債務很少。\n\n8月完成Pizza Hut交易後新增約US$1.2bn bridge loan。最新第三方標準化資產負債表顯示：\n\n- Cash：約 **US$1.41bn**\n- Total Debt：約 **US$2.30bn**\n- Net Debt：約 **US$0.89bn**\n- Debt／Equity約0.38。\n\n因此研究日不能再說：\n\n> **「百勝中國是一家淨現金公司。」**\n\n較準確的描述是：\n\n> **公司由高流動性、低金融負債，轉成仍然安全但具有約9億美元淨債務的資本結構。**\n\n由於bridge loan只是過渡融資，本稿不把它視作最終永久資本結構。\n\n---\n\n# 9. 現金流與Owner Earnings：這是一門真能把盈利變成現金的生意\n\n標準化現金流：\n\n| 期間 | CFO US$bn | CapEx US$bn | Simple FCF US$bn |\n|---|---:|---:|---:|\n| 2021 | 1.131 | 0.689 | 0.442 |\n| 2022 | 1.413 | 0.679 | 0.734 |\n| 2023 | 1.473 | 0.710 | 0.763 |\n| 2024 | 1.419 | 0.705 | 0.714 |\n| 2025 | **1.466** | **0.626** | **0.840** |\n| TTM至2026H1 | **1.578** | **0.638** | **0.940** |\n\nTTM FCF Margin約7.6%。\n\n2026H1公司原始現金流顯示，CFO US$976m，CapEx約US$271m，簡單差額約US$705m；同期現金回購支出US$530m、股息US$203m。\n\n所以在快速開店的同時，公司仍有能力用經營現金支持相當大的股東回報。\n\n但US$940m TTM FCF不能全部永久化。公司每年仍開近2,000家店，還要翻新既有門店；Pizza Hut收購開始產生利息；加盟比例提升也會改變CapEx和Revenue結構。\n\n更合理的結論是：\n\n> **核心門店系統已證明可以產生穩定自由現金，而管理層正逐步把大部分超出內生增長需求的現金返還股東。**\n\n---\n\n# 10. ROE／ROIC：目前約17% ROE、15% ROIC，質量不錯但不是「零資本生意」\n\n第三方標準化TTM口徑顯示：\n\n- ROE：約 **16.81%**\n- ROIC：約 **14.86%**\n- ROCE：約16.75%。\n\n這些不是公司官方指標，而且租賃會計、加盟店、商譽與Pizza Hut品牌資產均會影響ROIC，因此本稿不製造一條假精確的十年ROIC序列。\n\n比一個單一ROIC數字更有說服力的是：\n\n**店級payback＋自由現金流＋股本持續下降。**\n\n當企業可以同時快速開店，還能每年返還超過10億美元給股東，代表成熟核心門店產生的現金已顯著超過其內生再投資需求。\n\n因此它不像McDonald's那麼asset-light，也不像普通餐廳那麼資本密集。\n\n更準確的模式是：\n\n> **「高回報自營餐飲＋逐步加盟化」的混合平台。**\n\n---\n\n# 11. 股本與回購：近年每股盈利增長的重要來源\n\n2024公司返還股東約 **US$1.5bn**，其中share repurchases約US$1.24bn、cash dividends約US$248m；回購股數約相當於2023年底股份的8%。\n\n2025再次返還約 **US$1.5bn**：\n\n- Buybacks：**US$1.144bn**\n- Dividends：**US$353m**\n- 回購約24.7m股，約相當於2024年末股數7%。\n\n2026全年目標仍為US$1.5bn。H1已返還約 **US$718m**，包括約US$515m回購和US$203m股息。\n\n公司2025 Investor Day更表示，從2027起計畫把約**100%年度FCF、扣除子公司非控股股東股息後**返還股東；2027–2028預計每年約US$0.9bn至超過US$1bn。\n\n從2022年約425.6m shares到研究日第三方統計約340.45m股，股本已減少約20%。\n\n因此未來EPS不需要淨利潤增長一樣快。\n\n如果淨利潤只增5%–7%，股份每年再縮3%–5%，每股盈利仍可能接近雙位數增長。\n\n但這只有在回購價格低於內在價值時才真正增值。\n\n---\n\n# 12. 股息：不是高息股，「股息＋回購」才是完整股東收益率\n\n2026季度股息已提高到 **US$0.29／股**，年化US$1.16。\n\n按固定USD/HKD 7.8466：\n\n- 年化港元股息：約HK$9.10\n- 對HK$322.80：指示性股息率約 **2.8%**\n\n單看2.8%不高。\n\n但公司2026全年資本返還目標US$1.5bn，而研究日市值約US$14bn，總返還規模接近市值10%。\n\n需要強調：\n\n> **回購不是股息。**\n\n回購是否創造價值，取決於價格。\n\n---\n\n# 13. 同行比較：McDonald's和Yum!告訴我們「加盟化」能把margin推多高\n\n| 公司 | 最新主要數據 | 經營Margin／店級Margin | 模式 | TTM估值 |\n|---|---|---|---|---|\n| **Yum China** | Q2 Revenue US$3.14bn，+13%；SSS +1% | OP **11.1%**；Restaurant **16.1%** | 大量自營＋加盟加速 | **~15.1x P/E；~14.9x P/FCF** |\n| **McDonald's** | Q2 Revenue US$7.10bn，+4%；Global comp +1.3% | OP約 **47%** | 高度加盟＋地產 | **~18.8x P/E** |\n| **Yum! Brands** | KFC System Sales US$9.57bn，+6% ex-FX | KFC Division OP **44.3%** | 極度加盟 | **~17.2x P/E** |\n| **Luckin Coffee** | Q2 Revenue RMB15.89bn，+28.5% | GAAP OP **13.4%**；Store-level **21.3%** | 自營＋partner高速展店 | **~19.6x P/E** |\n\nMcDonald's Q2 consolidated revenue US$7.099bn、Operating Income US$3.338bn，全球同店+1.3%；TTM P/E約18.8倍。\n\nYum! Brands KFC Division Q2 system sales US$9.566bn、ex-FX +6%，division OP margin44.3%；TTM P/E約17.2倍。\n\nLuckin Q2收入RMB15.886bn、+28.5%，自營店store-level margin21.3%、GAAP OP margin13.4%；目前第三方TTM P/E約19.6倍。\n\n這張表不能機械比較margin。\n\nMcDonald's與Yum! Brands的40%+企業／division margin主要因為大量餐廳成本已由加盟商承擔；百勝中國仍有龐大自營店，因此收入確認更多、企業margin自然較低。\n\n這反而提示百勝中國下一階段最清晰的資本效率來源：\n\n> **若加盟比例繼續提高，公司可在保持System Sales增長的同時減少新店資本投入，提高企業層ROIC。**\n\n---\n\n# 14. 競爭反證：McDonald's中國Q2同店負增長，百勝中國仍正增長\n\nMcDonald's 2026Q2全球同店銷售+1.3%，但其International Developmental Licensed Markets披露中，中國同店銷售為負。\n\n同期百勝中國同店銷售+1%、交易量+5%。\n\n這不能證明KFC永遠勝過McDonald's，但至少說明在2026中國消費壓力下，百勝中國的性價比和交易頻率策略有一定韌性。\n\n真正值得追蹤的是：\n\n> **同店增長是否由健康交易量，而不是單純提價驅動。**\n\n目前答案是正面的。\n\n不過KFC ticket -3%、Pizza Hut ticket -11%同樣是一個明確風險：\n\n> **如果交易量增長停止，較低客單價會直接壓低單店收入。**\n\n---\n\n# 15. 估值：15倍盈利／FCF，低於多個全球高質量餐飲平台\n\n固定研究價格：\n\n**2026-09-30 H股 HK$322.80**。\n\n固定匯率：\n\n**USD/HKD = 7.8466**。\n\nYum China普通股在NYSE和HKEX代表同一類普通股並可跨市場轉換，因此可以用美元EPS與FCF直接換算H股經濟價值。\n\n### TTM盈利\n\n第三方標準化：\n\n- TTM EPS：**US$2.72**\n- 折港元：約HK$21.34\n- **P/E約15.1x**。\n\n### TTM自由現金流\n\n- TTM FCF：**US$940m**\n- Shares：約340.45m\n- FCF／share：約US$2.76\n- 折港元約HK$21.67\n- **P/FCF約14.9x**。\n\n### P/S\n\nTTM Revenue約US$12.44bn，研究日市值約US$14bn：\n\n**P/S約1.1x。**\n\n### Return metrics\n\n- ROE：約16.8%\n- ROIC：約14.9%。\n\n當前約15倍盈利，低於McDonald's約18.8倍、Yum! Brands約17.2倍與Luckin約19.6倍。\n\n但折價有合理原因：\n\n- 中國單一市場；\n- Pizza Hut交易新增債務；\n- 同店增長只有低單位數；\n- 自營店資本強度高於純加盟商；\n- 外賣、工資與性價比競爭持續存在。\n\n所以15倍不是無條件便宜。\n\n---\n\n# 16. Bear／Base／Bull：用正常化FCF，而不是夢想中的30,000家店\n\n公司從2027起計畫將大部分年度FCF返還股東，因此本稿採：\n\n> **正常化levered FCF × 合理倍數**\n\n不另加現金、不另減bridge loan，因FCF已接近股權現金流口徑，而交易後長期資本結構仍待確定。\n\n| 情境 | 正常化FCF US$bn | 倍數 | Equity Value US$bn | USD／股 | 約H股價值 |\n|---|---:|---:|---:|---:|---:|\n| **Bear** | 0.85 | 14x | 11.9 | US$34.95 | **HK$274** |\n| **Base** | 1.05 | 18x | 18.9 | US$55.51 | **HK$436** |\n| **Bull** | 1.25 | 22x | 27.5 | US$80.78 | **HK$634** |\n\n全部只是研究敏感度，不是公司預測、券商目標價或精確內在價值。\n\n**Bear：**Pizza Hut低客單策略壓margin、配送占比提高成本、新店成熟期拉長，收購利息抵銷部分license fee節省。\n\n**Base：**正常化FCF約US$1.05bn，與公司2027–2028預計每年返還約US$0.9bn至超過US$1bn的框架接近；KFC保持合理system sales增長，Pizza Hut收購正常兌現，加盟化改善資本效率。\n\n**Bull：**Pizza Hut每年800+新店仍符合2–3年payback，KFC低線城市及新模塊持續有效，加盟模式顯著提高ROIC。\n\n**HK$322.80位於Bear與Base之間。**\n\n市場並沒有把「30,000家店一定成功」完整計入價格。\n\n---\n\n# 17. 股價表現：EPS接近翻倍，股價十年只增約57%，估值壓縮是真實的\n\nYum China在2016-11-01作為獨立公司首次正常交易，首日收市 **US$26.19**。\n\n研究日HK$322.80按固定匯率折算約：\n\n**US$41.14**\n\n所以不計股息，首個正常交易日至今天的股價增幅約57%，年化只有約 **4.7%**。\n\n同期：\n\n- Revenue：6.75bn → 11.80bn\n- Adjusted EPS：1.28 → 2.51\n- Store count：7,562 → 18,101\n\n也就是：\n\n> **門店增加約140%，EPS接近翻倍，但純股價只上升約57%。**\n\n市場資本總額由2016約US$9.83bn增至目前約US$14bn，CAGR約3.6%；由於期間公司大量縮股，market-cap CAGR也不能直接等同股東總回報。\n\n真正總回報還包含多年現金股息，因此實際股東總回報高於純股價CAGR；本稿沒有把不同來源的歷史股息再投資數據硬拼成十年TSR。\n\n這是一個非常重要的Value Line提醒：\n\n> **好生意不自動等於好股票回報。起始估值和資本配置價格同樣重要。**\n\n---\n\n# 18. 永久資本損失風險：比「中國消費復甦」更值得看的六件事\n\n第一是**KFC門店飽和**。如果30,000店目標主要靠降低單店收入實現，系統規模可以增長，但每店回報和ROIC可能下降。\n\n第二是**Pizza Hut品牌收購回報不足**。US$1.2bn等於約19.5倍被消除license fee的稅後價值；如果Pizza Hut在中國的長期增長較慢，這筆收購可能只是EPS增厚而不是高ROIC投資。\n\n第三是**delivery占比持續上升**。KFC與Pizza Hut配送均已超過一半公司銷售；更多場景是好事，但騎手、平台與包裝成本是真實成本。\n\n第四是**消費降級永久壓低ticket**。目前交易量增長能抵銷，但若頻次停止增長，低客單策略會壓單店收入。\n\n第五是**加盟加速帶來品質控制風險**。加盟可以提高ROIC，但食品安全與品牌一致性不能失誤。\n\n第六是**高價回購**。每年返還大量現金很吸引，但只有在內在價值以下回購才真正增加剩餘股東價值。\n\n---\n\n# 19. 芒格式結論與下一期KPI\n\n百勝中國是不是一門好生意？\n\n**是，而且比「中國快餐股」這個標籤更好。**\n\n它最有價值的並不是某一個炸雞配方，而是：\n\n- 數十年品牌認知；\n- 全國供應鏈與食品安全系統；\n- 超大數字會員池；\n- 密集門店與配送節點；\n- 可複製的選址、開店和營運方法；\n- 在疫情與消費周期後仍能恢復15%–17%的Restaurant Margin；\n- 自營門店產生的現金足以支持開店、回購與股息；\n- 加盟化為下一階段提供更高資本效率；\n- Pizza Hut品牌買斷有機會把永久license fee轉化為股東盈利。\n\n但它還不是McDonald's那種成熟franchise royalty machine。\n\n公司仍擁有大量自營店，承擔人工、配送、租賃與供應鏈成本，而且集中於中國單一市場。\n\n因此我的最終判斷是：\n\n> **百勝中國是一門高質量、可複製、現金流良好的連鎖服務生意。HK$322.80、約15倍TTM盈利／FCF，值得進一步研究；現在最大的潛在價值不是「中國消費立即復甦」，而是加盟化、Pizza Hut品牌所有權和持續縮股能否讓每股FCF比報表Revenue更快增長。最大的風險則是擴店速度超過單店經濟、delivery成本永久上升，以及US$1.2bn Pizza Hut交易回報不足。**\n\n最值得持續追蹤的5個KPI：\n\n| KPI | 最新基準 | 為甚麼重要 |\n|---|---:|---|\n| **Same-store transactions** | Q2 **+5%** | 比Headline SSS更能判斷真實客流 |\n| **Restaurant Margin** | Q2 **16.1%** | 價值餐、配送與成本效率的總結果 |\n| **Net new stores＋franchise mix** | Q2 +560；**41%加盟** | 擴張速度與資本效率 |\n| **FCF／股＋淨股數** | TTM FCF **US$940m**；shares約340m | 回購是否真正提高每股價值 |\n| **Pizza Hut OP／Restaurant Margin** | Q2 OP margin8.3%；restaurant12.9% | 品牌收購2.8ppt增益能否兌現 |\n\nBase thesis應在以下情況下下修：同店交易量持續轉負；Restaurant Margin長期跌破14%；新店大量增加但System Sales只低單位數增長；Pizza Hut品牌買斷後margin提升明顯低於約2ppt；新Pizza Hut回收期超過3年；FCF連續低於US$0.8bn但公司仍維持US$1.5bn級資本返還；或者淨債務持續增加而沒有相應盈利改善。\n\n## 主要原始來源台帳\n\n[Yum China 2026 Q2 Results](https://ir.yumchina.com/news-releases/news-release-details/yum-china-reports-second-quarter-2026-results/?utm_source=chatgpt.com)\n\n[Yum China 2025 Full-Year Results](https://ir.yumchina.com/news-releases/news-release-details/yum-china-reports-fourth-quarter-2025-results?utm_source=chatgpt.com)\n\n[Yum China Annual Reports Archive](https://ir.yumchina.com/annual-reports/?utm_source=chatgpt.com)\n\n[Pizza Hut China Brand Acquisition — Completion](https://ir.yumchina.com/news-releases/news-release-details/yum-china-completes-acquisition-ownership-pizza-hut-brand/?utm_source=chatgpt.com)\n\n[Pizza Hut China Brand Acquisition — Initial Announcement](https://ir.yumchina.com/news-releases/news-release-details/yum-china-acquire-ownership-pizza-hut-brand-mainland-china?utm_source=chatgpt.com)\n\n[Yum China cash-flow/statistics cross-check｜StockAnalysis](https://stockanalysis.com/stocks/yumc/financials/cash-flow-statement/?utm_source=chatgpt.com)\n\n[9987.HK historical price｜StockAnalysis](https://stockanalysis.com/quote/hkg/9987/history/?utm_source=chatgpt.com)\n\n[USD/HKD historical rate｜Twelve Data](https://twelvedata.com/markets/111215/forex/usd-hkd/historical-data?utm_source=chatgpt.com)\n\n[McDonald's Q2 2026 Results](https://corporate.mcdonalds.com/corpmcd/our-stories/article/Q2-2026-results.html?utm_source=chatgpt.com)\n\n[Luckin Coffee Q2 2026 Results](https://luckincoffee.gcs-web.com/news-releases/news-release-details/luckin-coffee-announces-second-quarter-2026-financial-results/?utm_source=chatgpt.com)\n\n[Yum China independent NYSE listing announcement](https://ir.yumchina.com/news-releases/news-release-details/yum-china-completes-separation-yum-brands-lists-new-york-stock/?utm_source=chatgpt.com)\n\n## 口徑限制\n\nYum China於2016年11月才從Yum! Brands分拆，因此本稿以2016–2025作「完整獨立公司十年」，不把分拆前Yum! Brands China Division數據硬接。\n\nAdjusted Net Income／Adjusted Diluted EPS是公司Non-GAAP指標，會剔除若干特殊項目；本稿用它觀察核心經營，但不取代GAAP。\n\nRestaurant Margin只反映company-owned restaurants店級盈利，不包含總部G&A、加盟業務及其他分部，因此不能等同企業Operating Margin。\n\n2021–2026TTM FCF採第三方標準化CFO－CapEx作趨勢交叉檢查；早期年度沒有混用其他CapEx定義重建。\n\n2026H1資產負債表在Pizza Hut品牌收購之前；研究日負債評價已納入8月新增約US$1.2bn bridge loan，並用交易後第三方標準化資產負債表作交叉檢查。\n\nTTM ROE／ROIC來自第三方標準化公式；租賃、商譽和品牌收購處理會改變結果，因此不稱為公司官方ROIC。\n\nMcDonald's、Yum! Brands主要使用加盟模式，其高企業margin不可直接與百勝中國自營餐廳Restaurant Margin機械比較。\n\n2016首日US$26.19只用作長期價格快照，不代表完整含股息再投資TSR。\n\n固定研究價格為 **2026-09-30 H股HK$322.80**；10月1日香港休市，因此研究日不以美股10月1日價格替換H股基準。固定匯率為 **USD/HKD 7.8466**。\n\nBear／Base／Bull全部是研究敏感度，不是公司預測、券商目標價或投資建議。\n\n**完整原稿結束｜company-id=yum-china｜研究日=2026-10-02**\n",
+  "subtitle": "百勝中國是一門「品牌＋供應鏈＋數字會員＋門店密度＋本地運營」疊加的中國連鎖餐飲複利生意。",
+  "asof": "2026-10-02",
+  "revision": "munger-original-20261002-d3db108f0c84",
+  "source": {
+    "title": "每日芒格式公司研究（完整原稿）",
+    "researchDate": "2026-10-02",
+    "syncedAt": "2026-10-07T16:19:03.572Z",
+    "contentSha256": "d3db108f0c84357afcaf3cb660bfd27692f7bb317bad42416e8f39bfadc8951d"
+  },
+  "basis": "研究日：2026-10-02；資料截止：2026-10-02 07:56 香港時間；最新完整財務期為2026H1；已納入2026-08-07完成的Pizza Hut中國品牌收購；固定市場價格基準：2026-09-30 H股歷史收市 HK$322.80；10月1日香港假期休市，因此這是研究日前最新H股收市價\n完整承接原研究全部章節、長期表、同行比較、估值假設、風險、KPI及公開來源；只移除內部引用標記，網站未另行研究或改寫。",
   "summary": [
-    "门店效率与净回购有证据；新店回本和品牌收购回报必须比门店数更重要。",
-    "加入已完成必胜客中国品牌收购及融资；量化EPS增长中的净股数贡献；纠正美元收入增长包含汇率因素。"
-  ],
-  "sections": [
-    {
-      "title": "一、主公司、同行与核心结论",
-      "paragraphs": [
-        "主公司：百胜中国。同行：瑞幸咖啡、麦当劳。重整日：2026-09-18；财务截至各节所示，未混入该日之后披露。",
-        "门店效率与净回购有证据；新店回本和品牌收购回报必须比门店数更重要。"
-      ],
-      "tables": [
-        {
-          "headers": [
-            "判断类型",
-            "本版处理"
-          ],
-          "rows": [
-            [
-              "公司已披露事实",
-              "数字标明年度、单位及来源；前版已核验来源保留原核验日期，不冒称本次重读全部"
-            ],
-            [
-              "研究判断",
-              "护城河、质量与风险为分析，不是审计结论"
-            ],
-            [
-              "管理层指引",
-              "投资预算、回本期和回购授权均不是已经实现的现金"
-            ],
-            [
-              "估值假设",
-              "情景参数为研究敏感度，不是公司预测或分析师一致预期"
-            ],
-            [
-              "证据缺口",
-              "显式标注待补核/未单列披露，不用故事补足"
-            ]
-          ],
-          "note": ""
-        }
-      ]
-    },
-    {
-      "title": "二、Value Line长期财务记录",
-      "paragraphs": [],
-      "tables": [
-        {
-          "title": "独立上市以来锚点｜美元百万元，EPS美元",
-          "headers": [
-            "期间",
-            "收入",
-            "营业利润",
-            "归母",
-            "稀释EPS",
-            "CFO",
-            "CapEx"
-          ],
-          "rows": [
-            [
-              "2016",
-              "约6750",
-              "约640",
-              "待补核",
-              "1.36",
-              "待补核",
-              "待补核"
-            ],
-            [
-              "2025",
-              "约11800",
-              "约1290",
-              "待统一复核",
-              "2.51",
-              "待精确提取",
-              "待精确提取"
-            ],
-            [
-              "2025 H1",
-              "5768",
-              "703",
-              "507",
-              "1.35",
-              "864",
-              "259"
-            ],
-            [
-              "2026 H1",
-              "6409",
-              "795",
-              "553",
-              "1.57",
-              "976",
-              "271"
-            ]
-          ],
-          "note": "[R1][R3]；2017—2024逐年财务仍未完成统一提取，不能称完整十年表；2016分拆口径、汇率、收入准则需核准。"
-        }
-      ]
-    },
-    {
-      "title": "三、周期、高低点与数据完整性",
-      "paragraphs": [
-        "2016分拆独立后的历史应覆盖疫情关店、需求恢复、低客单价和外卖渗透提升，不能只拿2016和2025两个端点说长期平稳。2026 Q2美元收入+13%，剔汇率只有+6%；部分增长是折算，而非中国消费者实际多买13%。[R1]"
-      ],
-      "tables": [
-        {
-          "headers": [
-            "指标组",
-            "本版覆盖与口径",
-            "仍需补齐"
-          ],
-          "rows": [
-            [
-              "收入、增长、毛利/净利",
-              "长期表与单位经济，年度与H1/Q2分开",
-              "未列年份的可比毛利及分部序列；并购和准则重列"
-            ],
-            [
-              "营业利润/EBIT/EBITDA",
-              "采用原报告名称；中国准则营业利润不自动等于EBIT",
-              "除原文明确披露外不估造统一十年EBITDA"
-            ],
-            [
-              "稀释EPS、FCF/股、股数",
-              "有已核验值才列；回购与SBC分开",
-              "完整复权稀释EPS/净股数逐年序列；不能用基本EPS替换"
-            ],
-            [
-              "CFO、CapEx、FCF、Owner Earnings",
-              "现金桥明确公司FCF与简单FCF；银行例外",
-              "维护/增长CapEx和正常营运资本缺口；Owner Earnings暂无可靠单点"
-            ],
-            [
-              "ROE、ROIC、增量ROIC",
-              "列已披露ROE；论证新增投资及分母边界",
-              "逐年平均投入资本/税后经营收益尚未完全统一，不伪造ROIC"
-            ],
-            [
-              "债务、净现金、股息、回购",
-              "披露时点、租赁、受限现金和实际/计划区分",
-              "完整十年债务期限及SBC后注销表待补核"
-            ],
-            [
-              "长期股价、估值及总回报",
-              "有日期的价格快照及可复算情景",
-              "未取得统一复权、含分红再投及汇率的长期序列；不声称跑赢指数"
-            ]
-          ],
-          "note": "未完成统一口径的历史逐年提取，不等于公司没有披露。空缺不填零，不插值，不以两三个年份冒充完整十年序列。"
-        }
-      ]
-    },
-    {
-      "title": "四、收入、利润和现金的真实引擎",
-      "paragraphs": [
-        "目前仍以直营餐饮为主要收入，赚每餐食材、人工、租金、配送及管理成本之后的钱；加盟店虽增加，集团并非麦当劳式纯轻资产收费。消费者换餐厅成本低，品牌与会员必须由重复到店和不靠过度折扣的单位利润证明。"
-      ],
-      "tables": []
-    },
-    {
-      "title": "五、每100元收入与行业单位经济",
-      "paragraphs": [],
-      "tables": [
-        {
-          "headers": [
-            "2026 Q2每100美元直营销售",
-            "美元",
-            "说明"
-          ],
-          "rows": [
-            [
-              "食材及包装",
-              "31.5",
-              "直营销售分母"
-            ],
-            [
-              "人工及福利",
-              "27.6",
-              "直营销售分母"
-            ],
-            [
-              "场地及其他",
-              "24.8",
-              "含餐厅层面的相关费用"
-            ],
-            [
-              "餐厅利润",
-              "16.1",
-              "未扣所有总部项目"
-            ],
-            [
-              "集团营业率",
-              "11.1%",
-              "分母是集团收入3138百万美元，不能与上项直接相减"
-            ]
-          ],
-          "note": "集团归母244百万美元；股酬及总部成本不可忽略。[R1]"
-        }
-      ]
-    },
-    {
-      "title": "六、护城河：证据、边界和替代风险",
-      "paragraphs": [],
-      "tables": [
-        {
-          "headers": [
-            "能力",
-            "财务/经营证据",
-            "不能推出的结论"
-          ],
-          "rows": [
-            [
-              "营运系统",
-              "Q2餐厅利润率16.1%、集团营业率11.1%",
-              "两者分母不同，不能把餐厅利润当总部净利"
-            ],
-            [
-              "需求粘性",
-              "Q2同店交易+5%、同店销售+1%",
-              "隐含平均客单约−3.8%，尚非强提价"
-            ],
-            [
-              "净回购",
-              "H1稀释股数约−6.65%",
-              "EPS增速快于净利部分来自缩股，不是全部经营增长"
-            ]
-          ],
-          "note": ""
-        }
-      ]
-    },
-    {
-      "title": "七、利润增长桥：经营、税项与股数",
-      "paragraphs": [
-        "H1美元营业利润703→795百万，增加92百万；其中汇率影响44百万，固定汇率核心营业利润751百万，相对703增长约6.8%。归母507→553百万；稀释股数376→351百万，净利和缩股共同推动EPS。不是把13%收入增长、14%利润增长和21%单季EPS增长全解释为门店效率。[R1]",
-        "Q2同店销售+1%/交易+5%⇒平均客单变化约1.01/1.05−1=−3.8%，这是基于披露口径的代理计算，产品和渠道组合也有影响。外卖占直营销售约54%，更高配送成本可抵消规模效率。[R1]"
-      ],
-      "tables": []
-    },
-    {
-      "title": "八、ROIC与增量ROIC：新增一元资本是否增值",
-      "paragraphs": [
-        "2026 H1新开店建造成本下降是管理层披露的项目指标，不等于含租赁、总部系统、翻新和失败店成本的集团ROIC。2026年8月7日以12亿美元现金购得必胜客中国品牌：增量回报应以税后节省的授权费及新增利润，除以12亿美元和追加投入；不能把原本已拥有经营权的全部必胜客利润当新增收益。[R2]",
-        "方法：一般企业ROIC=可持续NOPAT/期初期末平均投入资本；增量ROIC用跨期ΔNOPAT/Δ投入资本，并与项目现金回收交叉核对。分母为零或负、并购改变边界或投入尚未成熟时，不报告虚假精确百分比。增量利润率、ROE和增量ROIC不是同一指标。银行改用普通股资本与风险资产；基建须穿透项目。"
-      ],
-      "tables": []
-    },
-    {
-      "title": "九、净利润→经营现金→FCF→Owner Earnings",
-      "paragraphs": [
-        "2026 H1 CFO9.76亿美元−CapEx2.71亿=7.05亿美元简单FCF，归母5.53亿。现金回购5.30亿+普通股息2.03亿=7.33亿，略高于简单FCF，且尚未计8月12亿美元收购。不是现金危机，但不能说全部返还均由当期自由现金覆盖。经营租赁现金已入US GAAP CFO，勿重扣。[R1]",
-        "Owner Earnings的工作定义是可持续税后盈利加非现金费用，扣维护竞争地位所需资本、正常营运资本增长及其他必要现金义务。不能同时从CFO再扣已包含的同笔营运资本或经营租金；也不能把所有增长投入都默认可停。"
-      ],
-      "tables": []
-    },
-    {
-      "title": "十、资本配置与每股价值",
-      "paragraphs": [
-        "2026 H1稀释平均股数由3.76亿降至3.51亿，减少约6.65%；归母+9.1%，稀释EPS1.35→1.57美元、+16.3%，股份减少解释部分每股增长。8月收购另有84亿元离岸人民币过桥授信，6月底净现金不能代表收购后资产负债表。融资、KFC新激励协议与品牌节省授权费要分开审视。[R1][R2]"
-      ],
-      "tables": []
-    },
-    {
-      "title": "十一、同行比较：为什么选择不同模式",
-      "paragraphs": [
-        "直接竞争及不同模式参照：瑞幸咖啡、麦当劳。"
-      ],
-      "tables": [
-        {
-          "headers": [
-            "公司",
-            "收入/盈利结构",
-            "资本与现金流/转换成本",
-            "国际化及主要风险"
-          ],
-          "rows": [
-            [
-              "百胜中国",
-              "直营占主导；2026 Q2餐厅率16.1%、集团OP率11.1%",
-              "H1简单FCF7.05亿美元；后续12亿收购需另计",
-              "品牌、供应链与门店密度；客单、配送、租赁风险"
-            ],
-            [
-              "瑞幸",
-              "2026 Q2收入158.856亿元、营业率13.4%；直营同店−5.3% [R5]",
-              "Q2 CFO26.253亿元；CapEx未在本次统一提取。联营收入包含卖材料，不是纯授权费",
-              "数字化订单及采购规模；消费者切换低；收入高增不等于成熟店改善"
-            ],
-            [
-              "麦当劳",
-              "加盟授权及地产租金为重要盈利引擎 [R6]",
-              "2025全年CFO105.51亿美元、CapEx33.65亿、简单FCF71.86亿；与百胜H1不可直接比",
-              "全球品牌与选址；加盟商负担部分资本，加盟商现金健康及租约为风险"
-            ]
-          ],
-          "note": "定量同行数据仅保留有来源的已披露值；未完成统一CFO、CapEx、ROIC、PE/EV提取的公司，不作数字排名。"
-        }
-      ]
-    },
-    {
-      "title": "十二、正常化盈利与估值口径",
-      "paragraphs": [
-        "保留经常股酬、日常门店翻新和经营租金。排除投资公允价值波动时同步考虑税率；用固定汇率理解经营，不将其直接当实际美元现金。收购后的盈利需扣融资成本并避免重复计算授权费节省。",
-        "价格记录：本次未完成同日核验，不作当前估值结论。美元EPS情景配NYSE美元普通股；HKEX报价需同日币种换算。 [Q1]",
-        "企业价值桥：市值＋有息债务＋与盈利口径匹配的租赁及少数权益−可用超额现金−未计盈利的非经营资产。客户款、受限现金及维持营运现金不能全部扣除。若用含利息的净利润PE，不再无条件加一次净现金。历史、同行及当前估值必须同日、同币种、同会计口径，本版未完成的同业估值不以猜值补齐。"
-      ],
-      "tables": []
-    },
-    {
-      "title": "十三、三情景与价格隐含要求",
-      "paragraphs": [
-        "以下均为作者假设，不是盈利预测、目标价或一致预期；未分配发生概率。好生意与好价格分别判断，未有一致价格/汇率/股数则不宣称当前低估。",
-        "反向检查：要求回报率并不是增长率。PE为M时，起始盈利收益率=1/M；每股盈利增长、实际分配及终值倍数变化共同决定回报，不能把盈利收益率与全部派息/回购重复相加。"
-      ],
-      "tables": [
-        {
-          "headers": [
-            "情景",
-            "可复算假设",
-            "条件/结果"
-          ],
-          "rows": [
-            [
-              "压力",
-              "正常化EPS2.3美元×14倍",
-              "32.2美元"
-            ],
-            [
-              "基准",
-              "EPS2.8美元×18倍",
-              "50.4美元；新店质量及缩股延续"
-            ],
-            [
-              "改善",
-              "EPS3.3美元×22倍",
-              "72.6美元；节费、经营及现金回报共同兑现"
-            ]
-          ],
-          "note": ""
-        }
-      ]
-    },
-    {
-      "title": "十四、失效路径与不同市场环境",
-      "paragraphs": [
-        "同店增长弱、配送成本抬升、门店互相分流和价格战会让扩店越快现金越紧。必胜客品牌收购消除部分授权支出，却提高资本基数和融资负担；KFC品牌仍涉及授权。宏观餐饮复苏不保证单店回报。",
-        "上行期扩大产能或门店的模式可能更快；价格战时单位成本、现金与渠道健康更重要；需求下降期低固定承诺通常更灵活。对本公司的判断应以上述资本结构与单位经济为准，而非认为市场份额最高者任何环境都胜出。"
-      ],
-      "tables": []
-    },
-    {
-      "title": "十五、最值得跟踪的五组领先指标",
-      "paragraphs": [],
-      "tables": [
-        {
-          "headers": [
-            "指标",
-            "为什么领先/有解释力",
-            "重新评估条件"
-          ],
-          "rows": [
-            [
-              "同店交易量与客单价",
-              "判断增长需多少折扣",
-              "交易增而客单长期降削弱定价权"
-            ],
-            [
-              "新店队列租金后回本",
-              "检验扩店质量",
-              "不能仅看建设成本下降"
-            ],
-            [
-              "配送占比与单位贡献",
-              "外卖订单未必高利润",
-              "配送增速快但贡献下滑须重估"
-            ],
-            [
-              "品牌收购税后节费/12亿美元",
-              "直接检验并购价值",
-              "以节省授权费而非原全部利润作分子"
-            ],
-            [
-              "净股数、租赁后FCF/股",
-              "检验净回购及现金回报",
-              "授信、收购与股息需同看"
-            ]
-          ],
-          "note": ""
-        }
-      ]
-    },
-    {
-      "title": "十六、最终判断与研究置信度",
-      "paragraphs": [
-        "门店效率与净回购有证据；新店回本和品牌收购回报必须比门店数更重要。",
-        "经营质量结论与估值结论分开：前者由已披露利润和现金支持，后者还依赖正常化、再投资回报和买入价格。项目级增量ROIC及维护资本未完全披露，不能给予“已证实”的标签。",
-        "本研究用于长期基本面学习，不构成投资建议；资料和计算均有边界，不能替代独立决策。"
-      ],
-      "tables": []
-    },
-    {
-      "title": "十七、本次修订、来源日期与待补证据",
-      "paragraphs": [
-        "加入已完成必胜客中国品牌收购及融资；量化EPS增长中的净股数贡献；纠正美元收入增长包含汇率因素。",
-        "本次以原始最新公告复核重点变动，保留前版已核验历史来源与原核验日期。长期表缺口、市场价格缺口和项目回报缺口已在正文显示；“重整完成”不等于所有历史字段已获得完整可比数据。",
-        "行业及监管参照：[I1]。2026-09-15发布；仅中国需求背景，不替代行业竞争证据。 行业背景不能单独证明公司增长原因、份额或护城河。"
-      ],
-      "tables": []
-    }
+    "百勝中國是一門「品牌＋供應鏈＋數字會員＋門店密度＋本地運營」疊加的中國連鎖餐飲複利生意。2016獨立上市至2025，收入由US$6.75bn增至US$11.80bn，CAGR約6.4%；調整後EPS由US$1.28增至US$2.51，CAGR約7.8%，而門店數由7,562家增至18,101家，CAGR約10.2%。真正的價值創造不是靠持續提價，而是靠更多門店、更多交易、更高數字化與配送滲透、供應鏈效率，以及近年大額回購把每股盈利增長推得快於淨利潤。2026Q2收入+13%、OP margin 11.1%，同店銷售+1%而交易量+5%，說明公司仍在以「價值感＋頻次」而非純提價增長。8月公司又以US$1.2bn買下Pizza Hut中國品牌所有權，這將提高Pizza Hut margin，但也把原本高流動性、低金融負債的資產負債表推向約US$0.9bn淨債務。HK$322.80約15.1倍TTM EPS、14.9倍TTM FCF；價格值得進一步研究，但真正的判斷是：在中國餐飲消費偏弱、外賣占比過半、加盟加速與Pizza Hut加槓桿擴張之後，百勝中國能否仍保持中十幾%的資本回報並把自由現金流穩定返還股東。"
   ],
   "sources": [
     {
-      "id": "R1",
-      "title": "百胜中国2026 Q2/H1原始业绩｜2026-07-30",
-      "url": "https://ir.yumchina.com/static-files/bca2bcb5-0485-4d34-9000-72195675bc86",
-      "detail": "损益、现金流、股数及同店指标。"
+      "id": "S1",
+      "title": "Yum China 2026 Q2 Results",
+      "url": "https://ir.yumchina.com/news-releases/news-release-details/yum-china-reports-second-quarter-2026-results/?utm_source=chatgpt.com",
+      "detail": "原稿公開來源鏈接。"
     },
     {
-      "id": "R2",
-      "title": "必胜客中国品牌收购完成8-K｜2026-08-07",
-      "url": "https://ir.yumchina.com/static-files/b860fd22-dbf0-42d4-adb1-50183734b945",
-      "detail": "12亿美元对价、84亿元CNH过桥授信、授权协议。"
+      "id": "S2",
+      "title": "Yum China 2025 Full-Year Results",
+      "url": "https://ir.yumchina.com/news-releases/news-release-details/yum-china-reports-fourth-quarter-2025-results?utm_source=chatgpt.com",
+      "detail": "原稿公開來源鏈接。"
     },
     {
-      "id": "R3",
-      "title": "百胜中国历年年报",
-      "url": "https://ir.yumchina.com/zh-hans/annual-reports",
-      "detail": "2016独立上市后财务档案；历史锚点待更细统一。"
+      "id": "S3",
+      "title": "Yum China Annual Reports Archive",
+      "url": "https://ir.yumchina.com/annual-reports/?utm_source=chatgpt.com",
+      "detail": "原稿公開來源鏈接。"
     },
     {
-      "id": "R4",
-      "title": "百胜中国2026 Q2投资者简报",
-      "url": "https://ir.yumchina.com/static-files/14fa9e39-0326-4d5e-96de-d431e255456e",
-      "detail": "管理层新店成本和回本披露，非保证未来回报。"
+      "id": "S4",
+      "title": "Pizza Hut China Brand Acquisition — Completion",
+      "url": "https://ir.yumchina.com/news-releases/news-release-details/yum-china-completes-acquisition-ownership-pizza-hut-brand/?utm_source=chatgpt.com",
+      "detail": "原稿公開來源鏈接。"
     },
     {
-      "id": "R5",
-      "title": "瑞幸2026 Q2财务业绩｜2026-08-03",
-      "url": "https://luckincoffee.gcs-web.com/news-releases/news-release-details/luckin-coffee-announces-second-quarter-2026-financial-results",
-      "detail": "单季人民币口径；直营与联营收入性质不同。"
+      "id": "S5",
+      "title": "Pizza Hut China Brand Acquisition — Initial Announcement",
+      "url": "https://ir.yumchina.com/news-releases/news-release-details/yum-china-acquire-ownership-pizza-hut-brand-mainland-china?utm_source=chatgpt.com",
+      "detail": "原稿公開來源鏈接。"
     },
     {
-      "id": "R6",
-      "title": "麦当劳2025年报",
-      "url": "https://corporate.mcdonalds.com/content/dam/sites/corp/nfl/pdf/MCD%202025%20Annual%20Report.pdf",
-      "detail": "2025全年美元现金流；不与百胜半年数字直接排名。"
+      "id": "S6",
+      "title": "Yum China cash-flow/statistics cross-check｜StockAnalysis",
+      "url": "https://stockanalysis.com/stocks/yumc/financials/cash-flow-statement/?utm_source=chatgpt.com",
+      "detail": "原稿公開來源鏈接。"
     },
     {
-      "id": "Q1",
-      "title": "价格核验入口（次级/动态）",
-      "url": "https://ir.yumchina.com/stock-information",
-      "detail": "本次未完成同日核验；美元EPS情景配NYSE美元普通股；HKEX报价需同日币种换算。"
+      "id": "S7",
+      "title": "9987.HK historical price｜StockAnalysis",
+      "url": "https://stockanalysis.com/quote/hkg/9987/history/?utm_source=chatgpt.com",
+      "detail": "原稿公開來源鏈接。"
     },
     {
-      "id": "I1",
-      "title": "国家统计局2026年1—8月消费数据",
-      "url": "https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965311.html",
-      "detail": "2026-09-15发布；仅中国需求背景，不替代行业竞争证据。"
+      "id": "S8",
+      "title": "USD/HKD historical rate｜Twelve Data",
+      "url": "https://twelvedata.com/markets/111215/forex/usd-hkd/historical-data?utm_source=chatgpt.com",
+      "detail": "原稿公開來源鏈接。"
+    },
+    {
+      "id": "S9",
+      "title": "McDonald's Q2 2026 Results",
+      "url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/Q2-2026-results.html?utm_source=chatgpt.com",
+      "detail": "原稿公開來源鏈接。"
+    },
+    {
+      "id": "S10",
+      "title": "Luckin Coffee Q2 2026 Results",
+      "url": "https://luckincoffee.gcs-web.com/news-releases/news-release-details/luckin-coffee-announces-second-quarter-2026-financial-results/?utm_source=chatgpt.com",
+      "detail": "原稿公開來源鏈接。"
+    },
+    {
+      "id": "S11",
+      "title": "Yum China independent NYSE listing announcement",
+      "url": "https://ir.yumchina.com/news-releases/news-release-details/yum-china-completes-separation-yum-brands-lists-new-york-stock/?utm_source=chatgpt.com",
+      "detail": "原稿公開來源鏈接。"
     }
   ]
 }
