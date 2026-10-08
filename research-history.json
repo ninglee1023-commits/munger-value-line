@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -508,6 +508,22 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究全部章節、長期表、同行比較、估值假設、風險、KPI及公開來源；只移除內部引用標記及內部實體標記，網站未另行研究或改寫。",
       "contentSha256": "ac271390ad4da57e7a280bdb927b49a7fd80e530d771872591c14531fdc63780"
+    },
+    {
+      "id": "fuyao-glass",
+      "company": "福耀玻璃",
+      "peers": [
+        "AGC",
+        "NSG",
+        "信義玻璃"
+      ],
+      "originalResearchDate": "2026-10-08",
+      "date": "2026-10-09",
+      "revision": "munger-original-20261008-1249e0dd519d",
+      "chapters": 18,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部18章、15年長期表、同行比較、估值假設、風險、KPI及公開來源；只移除內部引用標記與原稿結束標記後的流程通知，網站未另行研究或改寫。",
+      "contentSha256": "1249e0dd519d42801a2d9ba2a781dd101155830ad22e99c3ec58caec16f90edf"
     }
   ]
 }
