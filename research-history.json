@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -539,6 +539,22 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究全部21章、十年長期表、同行比較、估值敏感度、風險、KPI及公開來源；只移除內部引用與實體標記，以及原稿結束標記後的流程通知，網站未另行研究或改寫。原稿company-id=sf-holding，公開文章沿用既有slug=sf。",
       "contentSha256": "509c49cc21996702f63def2dae6cbe7b266d42428c7fb5d7fe5f7ec70408a77a"
+    },
+    {
+      "id": "yumc",
+      "company": "百勝中國",
+      "peers": [
+        "McDonald's",
+        "Restaurant Brands International",
+        "海底撈"
+      ],
+      "originalResearchDate": "2026-10-10",
+      "date": "2026-10-11",
+      "revision": "munger-original-20261010-ad892885df92",
+      "chapters": 20,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部22章、十年長期表、同行比較、估值敏感度、風險、KPI及公開來源；只移除內部引用與實體標記，以及原稿結束標記後的附件鏈接，網站未另行研究或改寫。原稿company-id=yum-china，公開文章沿用既有slug=yumc。",
+      "contentSha256": "ad892885df92ef93fbf23594d5ebcb0664fbaa7b6eace650adb38c78c11ec7c1"
     }
   ]
 }
