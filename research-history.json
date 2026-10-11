@@ -555,6 +555,22 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究全部22章、十年長期表、同行比較、估值敏感度、風險、KPI及公開來源；只移除內部引用與實體標記，以及原稿結束標記後的附件鏈接，網站未另行研究或改寫。原稿company-id=yum-china，公開文章沿用既有slug=yumc。",
       "contentSha256": "ad892885df92ef93fbf23594d5ebcb0664fbaa7b6eace650adb38c78c11ec7c1"
+    },
+    {
+      "id": "haier",
+      "company": "海爾智家",
+      "peers": [
+        "美的集團",
+        "格力電器",
+        "海信家電"
+      ],
+      "originalResearchDate": "2026-10-11",
+      "date": "2026-10-11",
+      "revision": "munger-original-20261011-7054af7046c6",
+      "chapters": 22,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部26章、十一年長期表、同行比較、估值敏感度、風險、KPI及公開來源；只移除內部引用與實體標記，以及原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。原稿company-id=haier-smart-home，公開文章沿用既有slug=haier。",
+      "contentSha256": "7054af7046c6acea5a3f9c2248aa8c446a1dd49605d08bb1b45dc63ee48e1a96"
     }
   ]
 }
