@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-13",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -571,6 +571,22 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究全部26章、十一年長期表、同行比較、估值敏感度、風險、KPI及公開來源；只移除內部引用與實體標記，以及原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。原稿company-id=haier-smart-home，公開文章沿用既有slug=haier。",
       "contentSha256": "7054af7046c6acea5a3f9c2248aa8c446a1dd49605d08bb1b45dc63ee48e1a96"
+    },
+    {
+      "id": "trip",
+      "company": "攜程集團",
+      "peers": [
+        "Booking Holdings",
+        "Airbnb",
+        "同程旅行"
+      ],
+      "originalResearchDate": "2026-10-12",
+      "date": "2026-10-13",
+      "revision": "munger-original-20261012-06a79093a9bf",
+      "chapters": 18,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部23章、十一年長期表、收入分部、同行比較、估值敏感度、風險、KPI及公開來源；只移除內部引用與實體標記、兩個不可公開的sandbox研究底稿鏈接，以及原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。原稿company-id=trip-com-group，公開文章沿用既有slug=trip。",
+      "contentSha256": "06a79093a9bfb0199d4091c7b8fe7dbe4bd58b41a7f7d5ee86fe0a7012f956b0"
     }
   ]
 }
