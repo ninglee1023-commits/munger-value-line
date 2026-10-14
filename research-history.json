@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-10-15",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -587,6 +587,37 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究全部23章、十一年長期表、收入分部、同行比較、估值敏感度、風險、KPI及公開來源；只移除內部引用與實體標記、兩個不可公開的sandbox研究底稿鏈接，以及原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。原稿company-id=trip-com-group，公開文章沿用既有slug=trip。",
       "contentSha256": "06a79093a9bfb0199d4091c7b8fe7dbe4bd58b41a7f7d5ee86fe0a7012f956b0"
+    },
+    {
+      "id": "haday",
+      "company": "海天味業",
+      "peers": [
+        "中炬高新",
+        "千禾味業",
+        "恒順醋業"
+      ],
+      "originalResearchDate": "2026-10-13",
+      "date": "2026-10-14",
+      "revision": "munger-original-20261013-359008abe3ec",
+      "chapters": 21,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部25章、十二年長期表、同行比較、估值敏感度、風險、KPI及16項公開來源；只移除內部引用與實體標記、不可公開的sandbox研究底稿鏈接，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。原稿company-id=haday。",
+      "contentSha256": "359008abe3ec299ad7968c9e34d1774a3c172047d234f9844f22199a796aa08b"
+    },
+    {
+      "id": "tencent",
+      "company": "騰訊控股",
+      "peers": [
+        "網易",
+        "快手"
+      ],
+      "originalResearchDate": "2026-10-14",
+      "date": "2026-10-15",
+      "revision": "munger-original-20261014-34aa37945a7c",
+      "chapters": 21,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部25章、十三年長期表、同行比較、估值敏感度、風險、KPI及10組公開來源；只移除內部引用與實體標記、不可公開的sandbox研究底稿鏈接，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。原稿company-id=tencent-holdings，公開文章沿用既有slug=tencent。",
+      "contentSha256": "34aa37945a7c62e86d83dd99c914d58410b1dcd1e2833c28327447f9f4788ae1"
     }
   ]
 }
