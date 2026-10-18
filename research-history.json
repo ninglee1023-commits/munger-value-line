@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-17",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -618,6 +618,53 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究全部25章、十三年長期表、同行比較、估值敏感度、風險、KPI及10組公開來源；只移除內部引用與實體標記、不可公開的sandbox研究底稿鏈接，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。原稿company-id=tencent-holdings，公開文章沿用既有slug=tencent。",
       "contentSha256": "34aa37945a7c62e86d83dd99c914d58410b1dcd1e2833c28327447f9f4788ae1"
+    },
+    {
+      "id": "midea",
+      "company": "美的集團",
+      "peers": [
+        "海爾智家",
+        "格力電器",
+        "海信家電"
+      ],
+      "originalResearchDate": "2026-10-15",
+      "date": "2026-10-17",
+      "revision": "munger-original-20261015-b304778d839f",
+      "chapters": 22,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部25章、長期財務表、同行比較、估值敏感度、風險、KPI及18組公開來源；只移除內部引用與實體標記、不可公開的sandbox研究底稿鏈接，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。原稿company-id=midea-group，公開文章沿用既有slug=midea。",
+      "contentSha256": "b304778d839f89254b842c8124697c8e532f209261e9774c2925d5aa9dfaa6b3"
+    },
+    {
+      "id": "jd",
+      "company": "京東集團",
+      "peers": [
+        "阿里巴巴",
+        "拼多多",
+        "美團"
+      ],
+      "originalResearchDate": "2026-10-16",
+      "date": "2026-10-17",
+      "revision": "munger-original-20261016-ff5c0ae2e69a",
+      "chapters": 22,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部25章、長期財務表、同行比較、估值敏感度、風險、KPI及13組公開來源；只移除內部引用與實體標記、不可公開的sandbox研究底稿鏈接，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。原稿company-id=jd-com，公開文章沿用既有slug=jd。",
+      "contentSha256": "ff5c0ae2e69a02c149026d4c48c2e43a868f31e78d75ff3a9180f2027740b6aa"
+    },
+    {
+      "id": "byd",
+      "company": "比亞迪股份",
+      "peers": [
+        "吉利汽車",
+        "長城汽車"
+      ],
+      "originalResearchDate": "2026-10-17",
+      "date": "2026-10-17",
+      "revision": "munger-original-20261017-147f71da81cf",
+      "chapters": 21,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部25章、長期財務表、同行比較、估值敏感度、風險、KPI及12組公開來源；只移除內部引用與實體標記、不可公開的sandbox研究底稿鏈接，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。原稿company-id=byd，公開文章沿用既有slug=byd。",
+      "contentSha256": "147f71da81cf9f8bd63af035ee8e4c3421f57ab8dd70ddb61c87a860f443257d"
     }
   ]
 }
