@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-21",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -665,6 +665,38 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究全部25章、長期財務表、同行比較、估值敏感度、風險、KPI及12組公開來源；只移除內部引用與實體標記、不可公開的sandbox研究底稿鏈接，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。原稿company-id=byd，公開文章沿用既有slug=byd。",
       "contentSha256": "147f71da81cf9f8bd63af035ee8e4c3421f57ab8dd70ddb61c87a860f443257d"
+    },
+    {
+      "id": "haday",
+      "company": "海天味業",
+      "peers": [
+        "千禾味業",
+        "中炬高新",
+        "恒順醋業"
+      ],
+      "originalResearchDate": "2026-10-19",
+      "date": "2026-10-21",
+      "revision": "munger-original-20261019-007e978cc49c",
+      "chapters": 26,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部26章、長期財務表、同行比較、估值敏感度、風險、KPI及20組公開來源；只移除內部引用與實體標記、不可公開的sandbox研究底稿鏈接，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。來源公司標識=haday，公開文章使用slug=haday。",
+      "contentSha256": "007e978cc49c76950ec843af2f2415ccf52a2c748d1311a4adbd283b8debb26e"
+    },
+    {
+      "id": "gree",
+      "company": "格力電器",
+      "peers": [
+        "美的集團",
+        "海爾智家",
+        "海信家電"
+      ],
+      "originalResearchDate": "2026-10-20",
+      "date": "2026-10-21",
+      "revision": "munger-original-20261020-c235f10da5e0",
+      "chapters": 26,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部26章、長期財務表、同行比較、估值敏感度、風險、KPI及13組公開來源；只移除內部引用與實體標記、不可公開的sandbox研究底稿鏈接，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。來源公司標識=gree-electric，公開文章使用slug=gree。",
+      "contentSha256": "c235f10da5e00ac318bbc4aa51ffce55aadabd64dd0ea603188567e1d05c704f"
     }
   ]
 }
