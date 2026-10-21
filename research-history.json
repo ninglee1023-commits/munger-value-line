@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -697,6 +697,22 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究全部26章、長期財務表、同行比較、估值敏感度、風險、KPI及13組公開來源；只移除內部引用與實體標記、不可公開的sandbox研究底稿鏈接，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。來源公司標識=gree-electric，公開文章使用slug=gree。",
       "contentSha256": "c235f10da5e00ac318bbc4aa51ffce55aadabd64dd0ea603188567e1d05c704f"
+    },
+    {
+      "id": "fuyao-glass",
+      "company": "福耀玻璃",
+      "peers": [
+        "AGC",
+        "日本板硝子",
+        "信義玻璃"
+      ],
+      "originalResearchDate": "2026-10-21",
+      "date": "2026-10-22",
+      "revision": "munger-original-20261021-ff354a4e077c",
+      "chapters": 26,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部26章、十五年長期財務表、同行比較、估值敏感度、風險、KPI及16組公開來源；只移除內部引用與實體標記、不可公開的sandbox研究底稿鏈接，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。來源公司標識=fuyao-glass，公開文章沿用既有slug=fuyao-glass。",
+      "contentSha256": "ff354a4e077c702260562e9de3a05cbf159ddc52a12722fdd4755f2986b99fb8"
     }
   ]
 }
