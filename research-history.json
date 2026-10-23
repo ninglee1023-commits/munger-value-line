@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -713,6 +713,38 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究全部26章、十五年長期財務表、同行比較、估值敏感度、風險、KPI及16組公開來源；只移除內部引用與實體標記、不可公開的sandbox研究底稿鏈接，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。來源公司標識=fuyao-glass，公開文章沿用既有slug=fuyao-glass。",
       "contentSha256": "ff354a4e077c702260562e9de3a05cbf159ddc52a12722fdd4755f2986b99fb8"
+    },
+    {
+      "id": "haday",
+      "company": "海天味業",
+      "peers": [
+        "中炬高新",
+        "千禾味業",
+        "安琪酵母"
+      ],
+      "originalResearchDate": "2026-10-22",
+      "date": "2026-10-23",
+      "revision": "munger-original-20261022-8ed5d032cad6",
+      "chapters": 21,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部21章、十四年長期財務表、同行比較、估值敏感度、風險、KPI及20組公開來源；只移除內部引用與實體標記、不可公開的sandbox研究底稿鏈接，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。來源公司標識=haday，公開文章沿用既有slug=haday。",
+      "contentSha256": "8ed5d032cad674ac2e0d9435c32ca469436405cfe714af77654f075a6c18e55b"
+    },
+    {
+      "id": "midea",
+      "company": "美的集團",
+      "peers": [
+        "格力電器",
+        "海爾智家",
+        "海信家電"
+      ],
+      "originalResearchDate": "2026-10-23",
+      "date": "2026-10-23",
+      "revision": "munger-original-20261023-3b6a07e0e04a",
+      "chapters": 24,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部24章、十四年長期財務表、同行比較、估值敏感度、風險、KPI及18組來源標記；S18按原稿指向S01／S02，公開來源元數據鏈接至S01。只移除內部引用與實體標記、不可公開的sandbox研究底稿鏈接，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。來源公司標識=midea-group，公開文章沿用既有slug=midea。",
+      "contentSha256": "3b6a07e0e04a96da6c768470807dee78bf3968c1402c65aa595b41e94bba6a8a"
     }
   ]
 }
