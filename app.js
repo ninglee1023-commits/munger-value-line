@@ -1,5 +1,20 @@
 const CATALOG = [
   {
+    "id": "li-ning",
+    "file": "li-ning.json",
+    "sourceSynced": true,
+    "name": "李寧",
+    "ticker": "2331.HK／82331.HK",
+    "date": "2026-10-25",
+    "sector": "中國運動品牌、渠道庫存與資本效率",
+    "verdict": "李寧是一門曾經從渠道危機中重生、但目前尚未證明具有穩定提價權的運動品牌生意。",
+    "valuation": "可追溯價格快照HK$12.69（2026-10-12）｜不發布10月23日現價P/E",
+    "conclusion": "值得建立觀察清單；本稿只給估值敏感度，不宣稱有安全邊際，不作買入建議。",
+    "lead": "價格是否值得進一步研究：值得；是否便宜：缺少10月23日可核實收盤及正常化FCF，暫不下買入結論。",
+    "metrics": [],
+    "visuals": []
+  },
+  {
     "id": "sf",
     "file": "sf.json",
     "sourceSynced": true,
