@@ -1,5 +1,20 @@
 const CATALOG = [
   {
+    "id": "yili",
+    "file": "yili.json",
+    "sourceSynced": true,
+    "name": "伊利股份",
+    "ticker": "600887.SH",
+    "date": "2026-10-26",
+    "sector": "中國乳製品、品牌渠道與資本配置",
+    "verdict": "伊利是一門相當不錯的中國規模化消費生意，但不是沒有週期的「永動機」。",
+    "valuation": "2026-10-23 RMB28.19｜2025靜態P/E約15.40x｜TTM P/E約17.61x｜歷史股息率約4.90%",
+    "conclusion": "值得加入觀察清單，不宜單靠15.4倍2025P/E和4.9%歷史股息率作買入決定。",
+    "lead": "值得深入研究，但「是否有安全邊際」取決於2026減值後正常化盈利、未來液態奶收入能否止跌，以及澳優等資產回報。",
+    "metrics": [],
+    "visuals": []
+  },
+  {
     "id": "li-ning",
     "file": "li-ning.json",
     "sourceSynced": true,
