@@ -1,5 +1,20 @@
 const CATALOG = [
   {
+    "id": "midea",
+    "file": "midea.json",
+    "sourceSynced": true,
+    "name": "美的集團",
+    "ticker": "000333.SZ／0300.HK",
+    "date": "2026-10-29",
+    "sector": "全球家電、工業製造、機器人與資本配置",
+    "verdict": "值得，但不是不需要安全邊際的確定性便宜貨。",
+    "valuation": "A股85.91元附近，約對應14.7倍TTM歸母淨利。",
+    "conclusion": "最重要的一句話：美的歷史上最值得買的，不是空調需求增長，而是它能把大量低頻、競爭激烈的實體產品，持續做成高ROE、現金回收良好的製造系統；下一步要證明，跨入ToB後這套能力仍然有效。",
+    "lead": "美的的經濟優勢不在於產品可以持續大幅提價，而在於能夠以比競爭對手更低的成本、更高的效率，生產和交付大量實體產品。",
+    "metrics": [],
+    "visuals": []
+  },
+  {
     "id": "tencent",
     "file": "tencent.json",
     "sourceSynced": true,
@@ -71,21 +86,6 @@ const CATALOG = [
     "valuation": "A股31.49元｜約14.51倍TTM P/E｜表觀FCF收益率11.23%（條件估算）",
     "conclusion": "目前價格值得進一步研究嗎？值得。",
     "lead": "估值值得繼續深挖，安全邊際必須在「租賃調整後FCF、資本回報與A/H真實市值」三項重建後才能下結論。",
-    "metrics": [],
-    "visuals": []
-  },
-  {
-    "id": "midea",
-    "file": "midea.json",
-    "sourceSynced": true,
-    "name": "美的集團",
-    "ticker": "000333.SZ／0300.HK",
-    "date": "2026-10-23",
-    "sector": "全球家電、工業製造、機器人與資本配置",
-    "verdict": "好生意，但不能把所有增長都當好增長。",
-    "valuation": "2026-10-21 A股RMB83.86｜條件P/E約14.42x、TTM簡化FCF收益率約6.72%",
-    "conclusion": "現價是否值得研究？值得。",
-    "lead": "美的真正的優勢不是賣空調，而是持續把複雜製造變成現金。",
     "metrics": [],
     "visuals": []
   },
