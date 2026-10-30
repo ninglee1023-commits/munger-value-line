@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -840,6 +840,21 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究全部17章、十年長期財務表、三家家電同行比較、估值敏感度、風險、KPI及14組公開來源；只移除內部引用與實體標記，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。來源公司標識=midea-group，公開文章沿用既有slug=midea。",
       "contentSha256": "5d2128f8a499a73c0996beb7bb56860fd012c23d67cddff37611d19ae3daa46a"
+    },
+    {
+      "id": "china-mobile",
+      "company": "中國移動",
+      "peers": [
+        "中國電信",
+        "中國聯通"
+      ],
+      "originalResearchDate": "2026-10-30",
+      "date": "2026-10-31",
+      "revision": "munger-original-20261030-d99c1667329d",
+      "chapters": 18,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部18章、十一年長期財務表、兩家直接運營商同行比較、估值敏感度、風險、KPI及20組公開來源；只移除內部引用與實體標記，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。來源公司標識=china-mobile，公開文章slug=china-mobile。",
+      "contentSha256": "d99c1667329df40a500f42828dedfb327cb57c6c84add7409d0dd6872e5855fc"
     }
   ]
 }
