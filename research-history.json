@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -855,6 +855,22 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究全部18章、十一年長期財務表、兩家直接運營商同行比較、估值敏感度、風險、KPI及20組公開來源；只移除內部引用與實體標記，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。來源公司標識=china-mobile，公開文章slug=china-mobile。",
       "contentSha256": "d99c1667329df40a500f42828dedfb327cb57c6c84add7409d0dd6872e5855fc"
+    },
+    {
+      "id": "fuyao-glass",
+      "company": "福耀玻璃",
+      "peers": [
+        "AGC",
+        "信義玻璃",
+        "日本板硝子"
+      ],
+      "originalResearchDate": "2026-10-31",
+      "date": "2026-11-01",
+      "revision": "munger-original-20261031-c281eafd05df",
+      "chapters": 18,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部18章、十年長期財務表、同行比較、估值敏感度、風險、KPI及13組原稿來源條目；其中S12為原稿未附URL的匯率數據說明，公開來源元數據登記其餘12個可點擊鏈接。只移除內部引用與實體標記，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。來源公司標識=fuyao-glass，公開文章沿用既有slug=fuyao-glass。",
+      "contentSha256": "c281eafd05df415cd92d650a6b23777d35d36fa2f33a1a09b16f474f169d6247"
     }
   ]
 }

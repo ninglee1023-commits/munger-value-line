@@ -1,5 +1,20 @@
 const CATALOG = [
   {
+    "id": "fuyao-glass",
+    "file": "fuyao-glass.json",
+    "sourceSynced": true,
+    "name": "福耀玻璃",
+    "ticker": "600660.SH／03606.HK",
+    "date": "2026-10-31",
+    "sector": "汽車玻璃與全球汽車供應鏈",
+    "verdict": "這是一門具有產品認證、研發共創、全球交付與規模成本護城河的好生意；但高資本開支與匯率波動會讓股東可分配現金遠不如淨利平滑。H股折價值得進一步研究，不能僅憑ROE高就忽略未來增量ROIC。",
+    "valuation": "2026年10月30日A股RMB53.49、H股HK$50.90；對應TTM P/E約16.9倍與13.7倍，H股折價約19.2%。",
+    "conclusion": "福耀最好的資產不是玻璃熔窯，而是讓車企願意在新車設計階段就把它拉進來的能力；最需要提防的則是為了守住這個位置，必須不停地把現金重新投入熔窯、工廠和研發。",
+    "lead": "汽車玻璃看似標準化材料，卻與整車設計、HUD顯示、隔熱、隔音、天幕、攝像頭標定、碰撞安全和整車認證深度耦合。",
+    "metrics": [],
+    "visuals": []
+  },
+  {
     "id": "china-mobile",
     "file": "china-mobile.json",
     "sourceSynced": true,
@@ -116,21 +131,6 @@ const CATALOG = [
     "valuation": "2026-10-21 A股RMB33.46｜條件P/E約26.76x、2025 FCF收益率約3.30%",
     "conclusion": "值得；但更接近合理價附近的品質研究標的，而非有巨大安全邊際的煙蒂股。",
     "lead": "真正應研究的是未來五年單位售價、產品結構、營運資金和回購分紅的可持續性，而不是只看一個P/E。",
-    "metrics": [],
-    "visuals": []
-  },
-  {
-    "id": "fuyao-glass",
-    "file": "fuyao-glass.json",
-    "sourceSynced": true,
-    "name": "福耀玻璃",
-    "ticker": "600660.SH／03606.HK",
-    "date": "2026-10-21",
-    "sector": "全球汽車玻璃供應鏈、技術壁壘與重資產回報",
-    "verdict": "好生意，但不是無須看價格的生意。",
-    "valuation": "2026-10-20 A股RMB55.25｜事後條件TTM P/E約17.47x、TTM簡化FCF收益率約3.41%",
-    "conclusion": "值得放入觀察名單，但不屬於「只看P/E就能買」的價位。",
-    "lead": "一個看似標準化、重資產的產品，為何可以獲得高於一般玻璃廠的利潤率？",
     "metrics": [],
     "visuals": []
   },
