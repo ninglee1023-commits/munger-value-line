@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-03",
   "note": "歷史研究及原報告同步記錄；原研究日與同步日期分別保留，格式修復不當作新研究。",
   "revisions": [
     {
@@ -871,6 +871,38 @@
       "sourceTitle": "每日芒格式公司研究（完整原稿）",
       "sourceNote": "完整承接原研究全部18章、十年長期財務表、同行比較、估值敏感度、風險、KPI及13組原稿來源條目；其中S12為原稿未附URL的匯率數據說明，公開來源元數據登記其餘12個可點擊鏈接。只移除內部引用與實體標記，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。來源公司標識=fuyao-glass，公開文章沿用既有slug=fuyao-glass。",
       "contentSha256": "c281eafd05df415cd92d650a6b23777d35d36fa2f33a1a09b16f474f169d6247"
+    },
+    {
+      "id": "visa",
+      "company": "Visa",
+      "peers": [
+        "Mastercard",
+        "PayPal",
+        "American Express"
+      ],
+      "originalResearchDate": "2026-11-01",
+      "date": "2026-11-03",
+      "revision": "munger-original-20261101-67ad84355b18",
+      "chapters": 16,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部16章、十二年長期財務表、同行比較、估值敏感度、風險、KPI及17行來源索引；原稿未列S02，S13—S15一行包含三個同行行情鏈接，公開來源元數據按19個可點擊鏈接登記，未補造缺失來源。只移除內部引用與實體標記，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。來源公司標識=visa，公開文章slug=visa。",
+      "contentSha256": "67ad84355b1895c3ea5da8c982df185f55bbb5bfdf8aeb6ff13998025bfa54cd"
+    },
+    {
+      "id": "haday",
+      "company": "海天味業",
+      "peers": [
+        "中炬高新",
+        "千禾味業",
+        "恒順醋業"
+      ],
+      "originalResearchDate": "2026-11-02",
+      "date": "2026-11-03",
+      "revision": "munger-original-20261102-cd28967b2563",
+      "chapters": 15,
+      "sourceTitle": "每日芒格式公司研究（完整原稿）",
+      "sourceNote": "完整承接原研究全部15章、十一年長期財務表、同行比較、A/H估值敏感度、風險、KPI及21行來源索引；S20與S21各含三個同行鏈接，公開來源元數據按25個可點擊鏈接登記。只移除內部引用與實體標記，以及完整原稿前後的摘要、附件與流程通知，網站未另行研究或改寫。來源公司標識=haday，公開文章沿用既有slug=haday。",
+      "contentSha256": "cd28967b2563b5bb439bbbe95e671482ab47eb23efd96583ec7936680679c519"
     }
   ]
 }
