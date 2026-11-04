@@ -64,7 +64,7 @@ button, input, select { font: inherit; }
 
 main { min-height: calc(100vh - 150px); }
 .shell { max-width: 1220px; margin: auto; padding: 42px 24px 74px; }
-.article-shell { max-width: 1280px; }
+.article-shell { max-width: 1280px; overflow-x: clip; }
 .eyebrow, .section-kicker {
   color: var(--gold);
   font-size: 12px;

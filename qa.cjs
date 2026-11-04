@@ -85,7 +85,7 @@ async function run(){
  const base=external||'http://127.0.0.1:8765/';
  const moduleRoot=process.env.RESEARCH_NODE_MODULES||'C:/Users/User/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules';
  const {chromium}=require(require.resolve('playwright',{paths:[moduleRoot]}));
- const browser=await chromium.launch({headless:true,channel:'msedge'});
+ const browser=await chromium.launch({headless:true,channel:process.env.RESEARCH_BROWSER_CHANNEL||'msedge'});
  const errors=[],results=[];fs.mkdirSync('.qa',{recursive:true});
  try{
   for(const width of [1440,390]){
@@ -96,7 +96,7 @@ async function run(){
     const r=reports.get(c.id);
     if(width===1440){const response=await page.request.get(new URL(c.file,base).href);assert(response.ok(),c.id+' report fetch');assert.deepEqual(await response.json(),r,c.id+' deployed JSON differs from checked local report');}
     await page.goto(base+'#/article/'+c.id,{waitUntil:'networkidle'});results.push(await inspectArticle(page,c,r,width));
-    if(['bestmart360','hket','mtr','tsitwing','anta','midea','shenzhou-international','cr-beer','sf','tencent','xiaomi'].includes(c.id)){
+    if(['bestmart360','hket','mtr','tsitwing','anta','midea','shenzhou-international','cr-beer','sf','luxshare','tencent','xiaomi'].includes(c.id)){
      await page.evaluate(()=>scrollTo(0,0));await page.screenshot({path:'.qa/'+c.id+'-'+width+'.png'});
      if((c.visuals||[]).length)await page.locator('#evidence').screenshot({path:'.qa/'+c.id+'-charts-'+width+'.png'});
     }
